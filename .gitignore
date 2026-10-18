@@ -1,0 +1,37 @@
+# Local environments, secrets, caches and editor state
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+.env
+.env.*
+*.pem
+*.key
+Thumbs.db
+.DS_Store
+
+# Third-party recordings, generated outputs and model checkpoints
+URL/
+raw_data/
+04_Results/
+outputs/
+results/
+scratch/
+*.dat
+*.hea
+*.atr
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.log
+
+# Keep the compact, verified archive in Git; unpack locally when running.
+03_Data/qualified_indices/

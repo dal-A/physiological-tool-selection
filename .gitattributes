@@ -1,0 +1,2 @@
+# Preserve exact bytes: scientific JSON/CSV input hashes are enforced at runtime.
+* -text
