@@ -1,0 +1,9 @@
+{
+  "snapshot_date": "2026-10-10",
+  "experiment_interpreter": "D:/大学学习/论文/论文项目/.venv/Scripts/python.exe",
+  "python": "3.12.4",
+  "OS": "Windows-11-10.0.22621-SP0",
+  "packages": {"numpy": "2.5.3", "pandas": "3.0.6", "scipy": "1.18.1", "scikit-learn": "1.9.1", "torch": "2.14.0", "wfdb": "4.3.1", "matplotlib": "3.11.2"},
+  "torch_cpu_threads_for_new_experiments": 4,
+  "scope": "Metadata read from the existing interpreter without installing/upgrading packages. P7 must save actual environment and avoid unrecorded dependency changes. CPU build identity and hardware are additionally captured at actual experiment time."
+}

@@ -1,0 +1,11 @@
+# Scientific CPU environment, Python 3.12; installed torch build was 2.14.0+cpu.
+# Install the matching CPU torch build before using this file on a new machine.
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+torch==2.14.0
+wfdb==4.3.1
+joblib==1.6.0
+pytest==9.1.1

@@ -1,0 +1,354 @@
+{
+  "schema": "publication_copy_v1",
+  "package_version": "1.0.0",
+  "scientific_protocol": "PM_P6_20261010_v1",
+  "scientific_code_unchanged": true,
+  "raw_recordings_included": false,
+  "files": [
+    {
+      "file": ".gitattributes",
+      "bytes": 90,
+      "sha256": "07aae031fda71f38d7b7892624f924dfa316e219f33d9c16ea7c3fbd56411032"
+    },
+    {
+      "file": ".gitignore",
+      "bytes": 467,
+      "sha256": "fdf3d4a2016931273cb9fc65b6c42b2ddcc188883c3f9399524a75fb7d950f16"
+    },
+    {
+      "file": "02_Code/P10_statistical_analysis/make_manifest.py",
+      "bytes": 3169,
+      "sha256": "3c148ae4116a104db48ee0459aac01387adb04b030cc6bfff683830bb9ad9e37"
+    },
+    {
+      "file": "02_Code/P10_statistical_analysis/README.md",
+      "bytes": 8562,
+      "sha256": "461cfc6ad940e4c197677834105cae091e50434e491c1a64a7fc6562c89a1d97"
+    },
+    {
+      "file": "02_Code/P10_statistical_analysis/run_diagnostics.py",
+      "bytes": 11736,
+      "sha256": "e6daabb93a7ac0590f5c83c733d4e0524024a35879211ede6d6325201f640eda"
+    },
+    {
+      "file": "02_Code/P10_statistical_analysis/run_interpretation.py",
+      "bytes": 3613,
+      "sha256": "3063d125d24ca9a64fdad3482e573a3910ca43423e77a779383a58c69b1de74f"
+    },
+    {
+      "file": "02_Code/P10_statistical_analysis/run_monitor_constraints.py",
+      "bytes": 2350,
+      "sha256": "c16b7483a94f7dc06377d3e02a2ed4849edb042650e8dfb3d843116ba6242b40"
+    },
+    {
+      "file": "02_Code/P10_statistical_analysis/run_sensitivity.py",
+      "bytes": 4851,
+      "sha256": "951d6a17a4af8ebcf698262a80d56d9de6e68b8e6a819826b23643ad006fd4f0"
+    },
+    {
+      "file": "02_Code/P10_statistical_analysis/run_statistics.py",
+      "bytes": 30108,
+      "sha256": "a203be440d48c0c0726ba57d0152109f28e3218543fe50b6645a5be3a6970c52"
+    },
+    {
+      "file": "02_Code/P10_statistical_analysis/sensitivity_classification.py",
+      "bytes": 16673,
+      "sha256": "b103ed277d2921e467fb2e76e406e7a76e782af8a91734d11c5486120cb23bd5"
+    },
+    {
+      "file": "02_Code/P10_statistical_analysis/sensitivity_monitoring.py",
+      "bytes": 10561,
+      "sha256": "8bf850c4aab66d2f664317377f59fa689d86adea15a5db9b8e776620780fb14b"
+    },
+    {
+      "file": "02_Code/P10_statistical_analysis/statistical_core.py",
+      "bytes": 6431,
+      "sha256": "f3e7d1075dc4d84f7a9ec340bb21ebe08e3ff813b5a03fb6c260a84120ce57ce"
+    },
+    {
+      "file": "02_Code/P10_statistical_analysis/test_sensitivity_contract.py",
+      "bytes": 3000,
+      "sha256": "060839a2a045ca81cca09025336f6ce0db61c9dbfbd37bf74db822e46aa790b3"
+    },
+    {
+      "file": "02_Code/P10_statistical_analysis/test_statistical_core.py",
+      "bytes": 1585,
+      "sha256": "9b546bc7de2ca0171160330d345eec5acb4ccade5a6b27dc93f8d7ebf5eb618f"
+    },
+    {
+      "file": "02_Code/P12_publication_figures_20261012_v1/build_publication_figures.py",
+      "bytes": 9290,
+      "sha256": "9a83400c777e0ced7975eb17eb44efb3a98393107ab4fa599ab4a5a1ba4fce62"
+    },
+    {
+      "file": "02_Code/P12_publication_figures_20261012_v1/material_manifest.json",
+      "bytes": 692,
+      "sha256": "50f058543a14cabf3a7a30b194efe71aac64a14c19aa90fc0ae36fbb1c1a7d16"
+    },
+    {
+      "file": "02_Code/P12_publication_figures_20261012_v1/README.md",
+      "bytes": 1759,
+      "sha256": "1dd399a4642b8d7e1c4224a0069767138dab835ce2e311fc6dab18a2470e90eb"
+    },
+    {
+      "file": "02_Code/P12_publication_figures_20261012_v1/requirements.txt",
+      "bytes": 17,
+      "sha256": "054e7483ed0899a13425d3ff89d0ae162290c88989825c77d22174ceb36f33f1"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/config/frozen_environment.json",
+      "bytes": 645,
+      "sha256": "746a6a62747d7e3212392822685eed3f31c3aa6be781971613bc06d2e1d4e54c"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/config/monitor_record_roles.json",
+      "bytes": 41008,
+      "sha256": "de160c644b24079311cda3ad32fee0f5b11becb17a1fbd3df59551532803721c"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/config/P7_actual_environment.json",
+      "bytes": 708,
+      "sha256": "e1252ddd8812864716d668e031262f16f5cd4cbc3388066e047f8c5b8f440f14"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/config/person_allocations.json",
+      "bytes": 129259,
+      "sha256": "3c289513aee99340abdb3c960cb1bd99382b7b3cd1f4981183dc97d7039c64e4"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/config/protocol.json",
+      "bytes": 28503,
+      "sha256": "9b333fcfb75748291d90730b3fd55b166ecff54c0521e7270478200244987f58"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/__init__.py",
+      "bytes": 106,
+      "sha256": "33726e159976f188182e559c225f83d23a51d8489ad020bbc2161fcd87fba657"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/adapters.py",
+      "bytes": 11766,
+      "sha256": "f9ab1287ecd5d7749481ff595e185aafaf08ea6bc486b4e0f94c69aeb3c2be0a"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/experiment_io.py",
+      "bytes": 8127,
+      "sha256": "12897ac69a9e220990ecd2fab7efa175ebeeeaa2799805a6d7a0a914da762ca2"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/full_classification.py",
+      "bytes": 11976,
+      "sha256": "40a5a962cd7202faa9196847810ade7eb56d5632b58f43e6c5074d80f8ae82c3"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/full_io.py",
+      "bytes": 7159,
+      "sha256": "cd5c7db4e2483cbc77f1a8f8bcbcff6168993c3f1d1b5f855ef91ff77986b0d8"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/full_monitor.py",
+      "bytes": 22656,
+      "sha256": "455cb3d5f3bd1455c3185389f4b2404377a54131bd0ca2aa19d95f51012e0d37"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/full_training.py",
+      "bytes": 3257,
+      "sha256": "fdb39a182c74c31ac588b08766b954fc93c62c3e5b94cf86b6a239caea973556"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/models.py",
+      "bytes": 7811,
+      "sha256": "bcd1b1eae0baebaf87906101cbe22c20f47ed5cb19070db1f3e8f32a150a93c1"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/monitoring.py",
+      "bytes": 11011,
+      "sha256": "035002ed6474687d76759d2a8ff6e58e8ab7a543b8de058e6a6e20b5fdc5f22e"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/persistence.py",
+      "bytes": 1991,
+      "sha256": "1aae899039d1ed4a4f4bf3eab96bb59bf1b0ed4c4fcb951baf04886ef79fc305"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/profiling.py",
+      "bytes": 1659,
+      "sha256": "5deb6c3fffa267f9bd7393918aae172261023ce08fe6b19722aa740425bd8476"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/protocol.py",
+      "bytes": 2736,
+      "sha256": "e21a02fd65764de0618eadb360c52133fc29e44893070d875e07a10d51703df2"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/quick_classification.py",
+      "bytes": 21462,
+      "sha256": "14628824202993253067f2382bee77d4b2413f55b800447ab6c4780d6d80b168"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/quick_monitor.py",
+      "bytes": 18873,
+      "sha256": "04f2fa13f275271c0e61225ac561a74889cdadbee196fc6158063c7e914f3458"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/safety.py",
+      "bytes": 8780,
+      "sha256": "cdd80102cb0ccee2ddc51343b36f6d4e6191edfcb2ab324d24df0aebfe014cb7"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/schema.py",
+      "bytes": 3741,
+      "sha256": "3c87aea4cd8ab3530e0189ef5a33e45569d66212a7fd23dae870166f60c04ea5"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/signals.py",
+      "bytes": 7170,
+      "sha256": "88457f895c1c3da2a5fa20c64351d778c3fc70af2882f72e8b85bf6f1244a40b"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pmtools/statistics.py",
+      "bytes": 5068,
+      "sha256": "4523a5e5833f3b408b23d2ddd97bbb58a5b53be9caf0a3c9e1a7e147448d0b71"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/pyproject.toml",
+      "bytes": 570,
+      "sha256": "a18d5bd1ca04929633545f95a8b06dd1a47a9580cdcd9267057d3b5ad385da2a"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/README.md",
+      "bytes": 6791,
+      "sha256": "1f287658f8b39b7eadfb0dbeff2e80c4ab61f1d0da1cdbcafc10a2ebf5aca2e7"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/README_P8.md",
+      "bytes": 4219,
+      "sha256": "d7f5d0d64dad440bb484b4245d0cb14fa54809b226e65f983932f2854d6d0959"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/README_P9.md",
+      "bytes": 2855,
+      "sha256": "8d83169df0435d7c0164b2c88f28994477dfef4dbd79c51a584d087df801d60d"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/requirements.txt",
+      "bytes": 295,
+      "sha256": "4799fa5c44a0fc3cb02beb0152b7ecdd3769970edc72d93a380a03453e95bf4e"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/scripts/run_full.py",
+      "bytes": 1263,
+      "sha256": "b6d10e762adb9f309becfc15df29966a7573f153972f122025a6edace62d2268"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/scripts/run_quick.py",
+      "bytes": 1083,
+      "sha256": "dc43e41ca10fdc6d685804374659fbeabce908bd935b037b8b728ca7ca6d470a"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/scripts/validate_dataset.py",
+      "bytes": 1783,
+      "sha256": "0be29eb75d2c6533c5e0139001c053ac2b3ea65e1e2f7b7753aeabff8903434b"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/tests/conftest.py",
+      "bytes": 939,
+      "sha256": "d7d992fe24d80f7b9574cc2d26f01cf0ae7e7c416f925ee3e661751dcf757347"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/tests/test_adapters_signals.py",
+      "bytes": 5222,
+      "sha256": "d4bfa21149421d76ee932656c0a1ff3c5078805892f14737bc271c86f8da3658"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/tests/test_full_pipeline.py",
+      "bytes": 7685,
+      "sha256": "30fb94f76ec4d7071e8b55d61f584e5c936c5b11cbe5106af277ffffc88d3f93"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/tests/test_integration_contract.py",
+      "bytes": 3451,
+      "sha256": "0e419d12cbaece639ced75f492da6dc23ae81b3e4bf88b7faaa69a4f63a66aa3"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/tests/test_models_safety.py",
+      "bytes": 7079,
+      "sha256": "8263edb90c74bea94af878f819783eca341f5b4d78211e8c2d8ce00a6c8bc553"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/tests/test_monitor_statistics.py",
+      "bytes": 6458,
+      "sha256": "5bc12f944b3525323b0a0b1c6ad1cbe84412564dabe96f8f3a594d620d223c85"
+    },
+    {
+      "file": "02_Code/physiological_tool_selection/tests/test_quick_pipeline.py",
+      "bytes": 5863,
+      "sha256": "6ae3b15d9d186d8ee2cb4c9887668c80222990d99b9f8414287a8bb5688ec973"
+    },
+    {
+      "file": "03_Data/qualified_indices.zip",
+      "bytes": 6761532,
+      "sha256": "5dccf50870bc20c130f756b807015593c45e8bedfff6a2ddbf4c3bc1f4c6300a"
+    },
+    {
+      "file": "CITATION.cff",
+      "bytes": 860,
+      "sha256": "c146f4c60d2ba62d8e28fb70359b1a581c39104eb7a9c1332a019ce4266594b1"
+    },
+    {
+      "file": "docs/DATA_DICTIONARY.md",
+      "bytes": 13751,
+      "sha256": "8e4ad5b6d478996cb26af07c91c9459fc5fb9b83891aa74350b298c4f986962d"
+    },
+    {
+      "file": "docs/DATA_LAYOUT.md",
+      "bytes": 1795,
+      "sha256": "61877461be9987d8446dc0bf86f112473b47ed57c5406a0761d8cba26f0135c7"
+    },
+    {
+      "file": "docs/DATA_SOURCES.md",
+      "bytes": 3911,
+      "sha256": "73ab8ec336baeb052549260cb62c55bb947e5a42c23d3e1efbc406beae09c45d"
+    },
+    {
+      "file": "docs/REPRODUCTION.md",
+      "bytes": 3692,
+      "sha256": "ef6ace715817a0ca0fa0c339a37631794753f705fe4e005b0e5105c46a0d00cb"
+    },
+    {
+      "file": "figure_inputs/endpoint_cluster_CI.csv",
+      "bytes": 344482,
+      "sha256": "7fd6a72f1b4dc3b6dab90fb3023cde058312ab890e0728274a93048ac4324527"
+    },
+    {
+      "file": "figure_inputs/NotoSerifSC_Regular.ttf",
+      "bytes": 14854716,
+      "sha256": "d9acc0fbf070716e84ae3079ed40d187328ecd114b227325540e489e97027242"
+    },
+    {
+      "file": "figure_inputs/OFL_NotoSerifSC.txt",
+      "bytes": 4350,
+      "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "file": "LICENSE_STATUS.md",
+      "bytes": 921,
+      "sha256": "1ad079e6546fd51e233f4dd5b21565750eb551ef247dc1f0508eb2efd1c0ba0c"
+    },
+    {
+      "file": "README.md",
+      "bytes": 6023,
+      "sha256": "01e02343f71249763accd9893037f7bdcec44b321a68e65d3768777383abc39b"
+    },
+    {
+      "file": "README_ZH.md",
+      "bytes": 1643,
+      "sha256": "b5181367aaefa88e3c4ae22b822a8274db16fe969dd58c91cd7b37de4ddd2ee1"
+    },
+    {
+      "file": "requirements.txt",
+      "bytes": 187,
+      "sha256": "102d29ded58798362473287f2cde0279f57e0fb437f58e008e64e8b8c1cbde8e"
+    }
+  ]
+}

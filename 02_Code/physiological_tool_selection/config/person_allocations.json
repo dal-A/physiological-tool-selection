@@ -1,0 +1,4108 @@
+{
+  "protocol_id": "PM_P6_20261010_v1",
+  "seed": 20260921,
+  "tasks": {
+    "af_afl": [
+      {
+        "subject": "VITALDB:2095",
+        "source_subject": "2095",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 116,
+        "records": [
+          "2400"
+        ],
+        "allocation_rank": "fcedb6d81df9608b41f062e9acfb073ea63ad34e87774ab5a3d8f6ece94e9a06"
+      },
+      {
+        "subject": "VITALDB:2179",
+        "source_subject": "2179",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 106,
+        "records": [
+          "3449"
+        ],
+        "allocation_rank": "fcd1057f6865f31979484dce3d7a979aa44244fd6b81e23f61653f210bfb571e"
+      },
+      {
+        "subject": "VITALDB:23",
+        "source_subject": "23",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 63,
+        "records": [
+          "2863"
+        ],
+        "allocation_rank": "ec1792fe8a1ad89beeb7408733e68696f5544159449f6229dbbdb4d9e2ab8499"
+      },
+      {
+        "subject": "VITALDB:2507",
+        "source_subject": "2507",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 80,
+        "records": [
+          "4461"
+        ],
+        "allocation_rank": "fd9303d798d3fee5b53e2bdc5f9be10a25ae587bcb7dd5c90b4f71d1a461e1bf"
+      },
+      {
+        "subject": "VITALDB:2938",
+        "source_subject": "2938",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 109,
+        "records": [
+          "746"
+        ],
+        "allocation_rank": "e7f80fef3a4ba415117ecad731cc40f9f7c8ca8f7085cfb571d42e0428548722"
+      },
+      {
+        "subject": "VITALDB:2942",
+        "source_subject": "2942",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 111,
+        "records": [
+          "2772"
+        ],
+        "allocation_rank": "f1e227a7d19446650c30502073228999e1e9f4e24d42f3ec406a62382b1e1fbd"
+      },
+      {
+        "subject": "VITALDB:2994",
+        "source_subject": "2994",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 118,
+        "records": [
+          "208"
+        ],
+        "allocation_rank": "fedb469351897f78674769647317ffca7fe5cc70d0332d48f32269921228b37d"
+      },
+      {
+        "subject": "VITALDB:3266",
+        "source_subject": "3266",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 112,
+        "records": [
+          "4639"
+        ],
+        "allocation_rank": "fa9786a3e7c919bc0404d5bddab51f10d7914237be78990702d060f688a9a860"
+      },
+      {
+        "subject": "VITALDB:3481",
+        "source_subject": "3481",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 107,
+        "records": [
+          "5392"
+        ],
+        "allocation_rank": "edccbb5362972155ddff9d198cf9e42f4e87e57bf566f78c4c98f43eb830f8d7"
+      },
+      {
+        "subject": "VITALDB:3843",
+        "source_subject": "3843",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 90,
+        "records": [
+          "758"
+        ],
+        "allocation_rank": "f8ab4099b378048e16a9db8b7a135149fedff058aeba077cee628fcc4fa26fbe"
+      },
+      {
+        "subject": "VITALDB:4130",
+        "source_subject": "4130",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 62,
+        "records": [
+          "4940"
+        ],
+        "allocation_rank": "f9b23b5e2d1a5d3ac40e71160689e249d26f95693ded5ea19b90bdbfdc48a5ed"
+      },
+      {
+        "subject": "VITALDB:4313",
+        "source_subject": "4313",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 64,
+        "records": [
+          "1127"
+        ],
+        "allocation_rank": "fe6d7ce461032cb3f5ef8aaedcbcfcc106cfef0886467a36bca8625d6e2f86ca"
+      },
+      {
+        "subject": "VITALDB:4649",
+        "source_subject": "4649",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 111,
+        "records": [
+          "2735"
+        ],
+        "allocation_rank": "ff2b0667a2803aa742b0318431310f750b685eef0add92ea6df4ec763454ac73"
+      },
+      {
+        "subject": "VITALDB:5429",
+        "source_subject": "5429",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 103,
+        "records": [
+          "3250"
+        ],
+        "allocation_rank": "ef9667d00348eb72d2fe44c56c0fbe00a65dbb5e7da87e421a64669a7c30e940"
+      },
+      {
+        "subject": "VITALDB:650",
+        "source_subject": "650",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "conformal",
+        "qualified_windows": 31,
+        "records": [
+          "5449"
+        ],
+        "allocation_rank": "e3cb866c4a0308d4ed4c38cdf300ea6bd48f2467f83d22e9c57b9d69d57fdf2f"
+      },
+      {
+        "subject": "VITALDB:1102",
+        "source_subject": "1102",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 42,
+        "records": [
+          "1996"
+        ]
+      },
+      {
+        "subject": "VITALDB:1171",
+        "source_subject": "1171",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 106,
+        "records": [
+          "2693"
+        ]
+      },
+      {
+        "subject": "VITALDB:1278",
+        "source_subject": "1278",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 76,
+        "records": [
+          "2618"
+        ]
+      },
+      {
+        "subject": "VITALDB:1554",
+        "source_subject": "1554",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 44,
+        "records": [
+          "1813"
+        ]
+      },
+      {
+        "subject": "VITALDB:1697",
+        "source_subject": "1697",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 34,
+        "records": [
+          "5034"
+        ]
+      },
+      {
+        "subject": "VITALDB:173",
+        "source_subject": "173",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 114,
+        "records": [
+          "3836"
+        ]
+      },
+      {
+        "subject": "VITALDB:1884",
+        "source_subject": "1884",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 52,
+        "records": [
+          "1110"
+        ]
+      },
+      {
+        "subject": "VITALDB:1893",
+        "source_subject": "1893",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 66,
+        "records": [
+          "4962"
+        ]
+      },
+      {
+        "subject": "VITALDB:2125",
+        "source_subject": "2125",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 96,
+        "records": [
+          "382"
+        ]
+      },
+      {
+        "subject": "VITALDB:2181",
+        "source_subject": "2181",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 104,
+        "records": [
+          "2558"
+        ]
+      },
+      {
+        "subject": "VITALDB:2195",
+        "source_subject": "2195",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 102,
+        "records": [
+          "3164"
+        ]
+      },
+      {
+        "subject": "VITALDB:2221",
+        "source_subject": "2221",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 102,
+        "records": [
+          "6010"
+        ]
+      },
+      {
+        "subject": "VITALDB:2270",
+        "source_subject": "2270",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 117,
+        "records": [
+          "5696"
+        ]
+      },
+      {
+        "subject": "VITALDB:2539",
+        "source_subject": "2539",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 95,
+        "records": [
+          "1165"
+        ]
+      },
+      {
+        "subject": "VITALDB:263",
+        "source_subject": "263",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 118,
+        "records": [
+          "388"
+        ]
+      },
+      {
+        "subject": "VITALDB:2634",
+        "source_subject": "2634",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 80,
+        "records": [
+          "2071"
+        ]
+      },
+      {
+        "subject": "VITALDB:2676",
+        "source_subject": "2676",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 100,
+        "records": [
+          "4383"
+        ]
+      },
+      {
+        "subject": "VITALDB:2768",
+        "source_subject": "2768",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 79,
+        "records": [
+          "212"
+        ]
+      },
+      {
+        "subject": "VITALDB:277",
+        "source_subject": "277",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 111,
+        "records": [
+          "2916"
+        ]
+      },
+      {
+        "subject": "VITALDB:2794",
+        "source_subject": "2794",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 76,
+        "records": [
+          "5065"
+        ]
+      },
+      {
+        "subject": "VITALDB:2807",
+        "source_subject": "2807",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 116,
+        "records": [
+          "257"
+        ]
+      },
+      {
+        "subject": "VITALDB:2890",
+        "source_subject": "2890",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 30,
+        "records": [
+          "2058"
+        ]
+      },
+      {
+        "subject": "VITALDB:2952",
+        "source_subject": "2952",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 117,
+        "records": [
+          "6012"
+        ]
+      },
+      {
+        "subject": "VITALDB:3021",
+        "source_subject": "3021",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 116,
+        "records": [
+          "230"
+        ]
+      },
+      {
+        "subject": "VITALDB:3041",
+        "source_subject": "3041",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 138,
+        "records": [
+          "2231"
+        ]
+      },
+      {
+        "subject": "VITALDB:3124",
+        "source_subject": "3124",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 244,
+        "records": [
+          "2428"
+        ]
+      },
+      {
+        "subject": "VITALDB:3229",
+        "source_subject": "3229",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 99,
+        "records": [
+          "1901"
+        ]
+      },
+      {
+        "subject": "VITALDB:3383",
+        "source_subject": "3383",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 99,
+        "records": [
+          "5938"
+        ]
+      },
+      {
+        "subject": "VITALDB:3570",
+        "source_subject": "3570",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 98,
+        "records": [
+          "3434"
+        ]
+      },
+      {
+        "subject": "VITALDB:3776",
+        "source_subject": "3776",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 55,
+        "records": [
+          "5658"
+        ]
+      },
+      {
+        "subject": "VITALDB:3863",
+        "source_subject": "3863",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 87,
+        "records": [
+          "3980"
+        ]
+      },
+      {
+        "subject": "VITALDB:391",
+        "source_subject": "391",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 93,
+        "records": [
+          "4803"
+        ]
+      },
+      {
+        "subject": "VITALDB:4005",
+        "source_subject": "4005",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 118,
+        "records": [
+          "1628"
+        ]
+      },
+      {
+        "subject": "VITALDB:4105",
+        "source_subject": "4105",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 97,
+        "records": [
+          "4572"
+        ]
+      },
+      {
+        "subject": "VITALDB:4331",
+        "source_subject": "4331",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 119,
+        "records": [
+          "5873"
+        ]
+      },
+      {
+        "subject": "VITALDB:4365",
+        "source_subject": "4365",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 118,
+        "records": [
+          "5501"
+        ]
+      },
+      {
+        "subject": "VITALDB:4375",
+        "source_subject": "4375",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 118,
+        "records": [
+          "4998"
+        ]
+      },
+      {
+        "subject": "VITALDB:458",
+        "source_subject": "458",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 96,
+        "records": [
+          "5391"
+        ]
+      },
+      {
+        "subject": "VITALDB:4598",
+        "source_subject": "4598",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 112,
+        "records": [
+          "1605"
+        ]
+      },
+      {
+        "subject": "VITALDB:4621",
+        "source_subject": "4621",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 119,
+        "records": [
+          "4833"
+        ]
+      },
+      {
+        "subject": "VITALDB:4730",
+        "source_subject": "4730",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 105,
+        "records": [
+          "3519"
+        ]
+      },
+      {
+        "subject": "VITALDB:4750",
+        "source_subject": "4750",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 117,
+        "records": [
+          "2054"
+        ]
+      },
+      {
+        "subject": "VITALDB:4803",
+        "source_subject": "4803",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 113,
+        "records": [
+          "4261"
+        ]
+      },
+      {
+        "subject": "VITALDB:4892",
+        "source_subject": "4892",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 104,
+        "records": [
+          "5697"
+        ]
+      },
+      {
+        "subject": "VITALDB:4970",
+        "source_subject": "4970",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 113,
+        "records": [
+          "4925"
+        ]
+      },
+      {
+        "subject": "VITALDB:5014",
+        "source_subject": "5014",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 116,
+        "records": [
+          "2130"
+        ]
+      },
+      {
+        "subject": "VITALDB:5129",
+        "source_subject": "5129",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 114,
+        "records": [
+          "2596"
+        ]
+      },
+      {
+        "subject": "VITALDB:532",
+        "source_subject": "532",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 55,
+        "records": [
+          "5227"
+        ]
+      },
+      {
+        "subject": "VITALDB:5366",
+        "source_subject": "5366",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 105,
+        "records": [
+          "3784"
+        ]
+      },
+      {
+        "subject": "VITALDB:5417",
+        "source_subject": "5417",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 87,
+        "records": [
+          "5156"
+        ]
+      },
+      {
+        "subject": "VITALDB:5546",
+        "source_subject": "5546",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 39,
+        "records": [
+          "2495"
+        ]
+      },
+      {
+        "subject": "VITALDB:560",
+        "source_subject": "560",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 69,
+        "records": [
+          "5849"
+        ]
+      },
+      {
+        "subject": "VITALDB:5622",
+        "source_subject": "5622",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 37,
+        "records": [
+          "984"
+        ]
+      },
+      {
+        "subject": "VITALDB:5760",
+        "source_subject": "5760",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 85,
+        "records": [
+          "3323"
+        ]
+      },
+      {
+        "subject": "VITALDB:5944",
+        "source_subject": "5944",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 96,
+        "records": [
+          "4903"
+        ]
+      },
+      {
+        "subject": "VITALDB:5968",
+        "source_subject": "5968",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 103,
+        "records": [
+          "3618"
+        ]
+      },
+      {
+        "subject": "VITALDB:6034",
+        "source_subject": "6034",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 117,
+        "records": [
+          "387"
+        ]
+      },
+      {
+        "subject": "VITALDB:672",
+        "source_subject": "672",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 107,
+        "records": [
+          "5863"
+        ]
+      },
+      {
+        "subject": "VITALDB:861",
+        "source_subject": "861",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 113,
+        "records": [
+          "862"
+        ]
+      },
+      {
+        "subject": "VITALDB:944",
+        "source_subject": "944",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "independent_evaluation",
+        "role": "evaluation",
+        "qualified_windows": 115,
+        "records": [
+          "853"
+        ]
+      },
+      {
+        "subject": "VITALDB:1421",
+        "source_subject": "1421",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 92,
+        "records": [
+          "816"
+        ],
+        "allocation_rank": "d1613b9b4c7700faaa05e6bccf28db670178f49d233dbe9bc9a6f40e9122c250"
+      },
+      {
+        "subject": "VITALDB:1616",
+        "source_subject": "1616",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 49,
+        "records": [
+          "4539"
+        ],
+        "allocation_rank": "be84dc88e31066a68296edaf1ee7bfd2d172f1a5b398f20f0cd29db4a8854278"
+      },
+      {
+        "subject": "VITALDB:1833",
+        "source_subject": "1833",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 91,
+        "records": [
+          "232"
+        ],
+        "allocation_rank": "d9eb20af91358ccf184cdf904b961b5893b08be8f6d48543e909c8d4ac0c67f2"
+      },
+      {
+        "subject": "VITALDB:2271",
+        "source_subject": "2271",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 109,
+        "records": [
+          "5163"
+        ],
+        "allocation_rank": "ca023e9931aee404abd232b0a56b9a0f21f57a0bf4682da599241d304faa01f1"
+      },
+      {
+        "subject": "VITALDB:2383",
+        "source_subject": "2383",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 119,
+        "records": [
+          "5155"
+        ],
+        "allocation_rank": "d51afd88797ae5f6ef2061aced39637eb098238d827545d842f968eb0ce05e61"
+      },
+      {
+        "subject": "VITALDB:3191",
+        "source_subject": "3191",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 105,
+        "records": [
+          "6355"
+        ],
+        "allocation_rank": "e36a00176e214484706631e19293c83f7dedbdd64e7a696ce93d96c86e665340"
+      },
+      {
+        "subject": "VITALDB:3244",
+        "source_subject": "3244",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 113,
+        "records": [
+          "6088"
+        ],
+        "allocation_rank": "d0b874e9900b16200ebe658eaadd8de4b91a27727a7fcdf52dab8c6bfa0b3c07"
+      },
+      {
+        "subject": "VITALDB:3279",
+        "source_subject": "3279",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 90,
+        "records": [
+          "2601"
+        ],
+        "allocation_rank": "e113e0f237349aca0e0098232661c91d9c455e96d71043c3b95ccd5131e82ef8"
+      },
+      {
+        "subject": "VITALDB:3303",
+        "source_subject": "3303",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 114,
+        "records": [
+          "4636"
+        ],
+        "allocation_rank": "db7b73fd9a9b9fafc6166247027a30c7334ad4841f85c6590dc6c62f3a78ffcf"
+      },
+      {
+        "subject": "VITALDB:3459",
+        "source_subject": "3459",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 81,
+        "records": [
+          "158"
+        ],
+        "allocation_rank": "d811019a1f57f8ab2802f661fa1f3fd31d3504d2ec2d602bce5676dc9d9abfb4"
+      },
+      {
+        "subject": "VITALDB:4879",
+        "source_subject": "4879",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 77,
+        "records": [
+          "365"
+        ],
+        "allocation_rank": "ccea5e791c4f51d589380887bb323a0be5e6c1465beab330f71288695bb321eb"
+      },
+      {
+        "subject": "VITALDB:5081",
+        "source_subject": "5081",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 46,
+        "records": [
+          "788"
+        ],
+        "allocation_rank": "ea986a808dbba48eb5899561f9ffd7a7efb80fd8efffb2424d675e050d54ab69"
+      },
+      {
+        "subject": "VITALDB:5246",
+        "source_subject": "5246",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 298,
+        "records": [
+          "1738"
+        ],
+        "allocation_rank": "c911b36cff513b89cd1d4a5a774fa6954e1fec98baa237598194ed7543348a7e"
+      },
+      {
+        "subject": "VITALDB:5269",
+        "source_subject": "5269",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 113,
+        "records": [
+          "3129"
+        ],
+        "allocation_rank": "c819b5a9f39cc503c9cc8b5b4f8d2e84003a4cad88b642c664defe0b48a77a68"
+      },
+      {
+        "subject": "VITALDB:5666",
+        "source_subject": "5666",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "policy",
+        "qualified_windows": 232,
+        "records": [
+          "1377",
+          "3189"
+        ],
+        "allocation_rank": "e0969fe27048ae4143bd90c00ba257ff4b93b7e4e2980131e8c24cb021032f3e"
+      },
+      {
+        "subject": "VITALDB:1053",
+        "source_subject": "1053",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 96,
+        "records": [
+          "4279"
+        ],
+        "allocation_rank": "198798dc92f8e1a6b38320e6422b4b9bef15c254491311c96926bf0fd9d67373",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:136",
+        "source_subject": "136",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 92,
+        "records": [
+          "3077"
+        ],
+        "allocation_rank": "706f3cc9e26e1dbf300aca6d14dbb229f039be3f0128c69d64d0a0a5ae0a731d",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:1451",
+        "source_subject": "1451",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 94,
+        "records": [
+          "5115"
+        ],
+        "allocation_rank": "30f180a22867bccf5b03f993a259d19719c2ce809a23498ca5aab9cbf6c1c6ff",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:1668",
+        "source_subject": "1668",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 156,
+        "records": [
+          "2922"
+        ],
+        "allocation_rank": "4e18b53cf7859de350f4fcaac37fd4469cb69cf960251e43983f08ad0f9b4257",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:1677",
+        "source_subject": "1677",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 93,
+        "records": [
+          "6324"
+        ],
+        "allocation_rank": "20422ec4c4a0913ffcd97b69588bc531c624ca8cd11bfcdbfe226f4886944916",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:1680",
+        "source_subject": "1680",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 114,
+        "records": [
+          "5888"
+        ],
+        "allocation_rank": "0c0261a26e0ed8065ad8bf8c316eda375099d2c9d6425fcdcd7a5169bb321b39",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:1867",
+        "source_subject": "1867",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 86,
+        "records": [
+          "541"
+        ],
+        "allocation_rank": "a0f977bcc747161cadaf724d3c74eb3f669b8b24c7fc48b390785b0b902fabf6",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:206",
+        "source_subject": "206",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 94,
+        "records": [
+          "2611"
+        ],
+        "allocation_rank": "4897e56db345d80b4a01831f2b30fa3f53c3bb803f7665df4958ae6ae897ee18",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:211",
+        "source_subject": "211",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 84,
+        "records": [
+          "458"
+        ],
+        "allocation_rank": "1515619e10c4303e2fa06d39e5677a850580c1635d77601aaaae4a6970398e49",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:2177",
+        "source_subject": "2177",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 116,
+        "records": [
+          "713"
+        ],
+        "allocation_rank": "c720283b3e4b3bba4fd53ae9aea3a060b936952e5a8909a3fbcc838c26c2c0ba",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:2251",
+        "source_subject": "2251",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 118,
+        "records": [
+          "3648"
+        ],
+        "allocation_rank": "69acd58805d4a1b9cf58c5a188382bc9c9aa3156047f0af64b801ca85281d3bc",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:2363",
+        "source_subject": "2363",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 118,
+        "records": [
+          "5192"
+        ],
+        "allocation_rank": "91ac123927b22f140250063ef7720cf3bd60869ba848819e42c871f266e04593",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:2369",
+        "source_subject": "2369",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 223,
+        "records": [
+          "1317",
+          "6245"
+        ],
+        "allocation_rank": "0ec35267950ddda878129302b0f3f85fc5876af2ae373b78997ed4389d080998",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:2399",
+        "source_subject": "2399",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 117,
+        "records": [
+          "4245"
+        ],
+        "allocation_rank": "ab058d60b96139d0e9d0d0414887f054ecc8523bb27477d07b2d75cd9c9ac0f9",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:2418",
+        "source_subject": "2418",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 84,
+        "records": [
+          "2795"
+        ],
+        "allocation_rank": "815709613992577f43d1c0d1c8040a7e59e72d387808f07f80c9d96055f6f916",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:2458",
+        "source_subject": "2458",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 110,
+        "records": [
+          "2213"
+        ],
+        "allocation_rank": "409d3df79cadd9ee52f7226adacb607ed69ce70e51825fdd157e13e659fcb319",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:2695",
+        "source_subject": "2695",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 117,
+        "records": [
+          "3167"
+        ],
+        "allocation_rank": "67a14bf73d6ce2b66b12566272fd94ebac1b1274177aac80da2d8efa3176fa0b",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:2763",
+        "source_subject": "2763",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 90,
+        "records": [
+          "1157"
+        ],
+        "allocation_rank": "2e7ec5f2c074d87f3361b444f0bb8c3d39610bcfdef5f2152329ec16da5e4a56",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:281",
+        "source_subject": "281",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 91,
+        "records": [
+          "4092"
+        ],
+        "allocation_rank": "47c5d4fd6581b6c2acf10db596a05d03d679c73e898513ea2ef74875a49d167f",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:2811",
+        "source_subject": "2811",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 50,
+        "records": [
+          "5741"
+        ],
+        "allocation_rank": "8738eb654966e6840519df5b31e3f663d025ede96675f188207f64628ae0ad67",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:2857",
+        "source_subject": "2857",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 51,
+        "records": [
+          "2810"
+        ],
+        "allocation_rank": "68fda65d0652a300583d798117be2f93c4332155506626d33f18b9a692f58d9c",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:3006",
+        "source_subject": "3006",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 117,
+        "records": [
+          "1207"
+        ],
+        "allocation_rank": "b94f8ab5d30a06059fa5d0fa51f3484bda11c1018d0b7720b7c7a0a99f9e9d08",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:3018",
+        "source_subject": "3018",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 114,
+        "records": [
+          "584"
+        ],
+        "allocation_rank": "7667241a546fad6ea95a6fda1611d48760e5208a1831d9a869703ec06ef6a29f",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:3072",
+        "source_subject": "3072",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 38,
+        "records": [
+          "1115"
+        ],
+        "allocation_rank": "3a0794f1bb6f8f845c65ef3f39514dfaca77efd0684192e28168ef5fd2715778",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:3080",
+        "source_subject": "3080",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 54,
+        "records": [
+          "2191"
+        ],
+        "allocation_rank": "56ff08068619ba08c7c0aec8a66c4ae77c9c1a8e680e393af1f2ba8076893cc4",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:3154",
+        "source_subject": "3154",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 68,
+        "records": [
+          "1798"
+        ],
+        "allocation_rank": "83c1770f451b2e11f2b993b4f8a4666a504ecec9590c7ca11c9e5876d86bfd2e",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:3234",
+        "source_subject": "3234",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 107,
+        "records": [
+          "864"
+        ],
+        "allocation_rank": "496c9fb8b0072787061b3b9549ec9d7a44e034456b2bbc57539032e690eea82f",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:3374",
+        "source_subject": "3374",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 118,
+        "records": [
+          "5362"
+        ],
+        "allocation_rank": "52a48c0b9ed95b2c4156f22646b887a9242e3a426f2d3586444534a1c09c4257",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:3662",
+        "source_subject": "3662",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 116,
+        "records": [
+          "2018"
+        ],
+        "allocation_rank": "187bfcef1d0e59429135c7d5d648a753840dcadc3daae4f57d3b3d3128f87302",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:3666",
+        "source_subject": "3666",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 119,
+        "records": [
+          "1086"
+        ],
+        "allocation_rank": "36cd842b3d1d31f6c475628f1555752c62d03822c452914a6e8da2d2587da9c4",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:3667",
+        "source_subject": "3667",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 106,
+        "records": [
+          "521"
+        ],
+        "allocation_rank": "3ad33da87f7c2abc4bfaf324cc5840d029744055bd986fabd5d2118c5f8abe06",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:3704",
+        "source_subject": "3704",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 76,
+        "records": [
+          "1699"
+        ],
+        "allocation_rank": "b0ce701a46bc20d21469950a3f467ff53af6f5968640f1267ab591b13cb44200",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:3821",
+        "source_subject": "3821",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 95,
+        "records": [
+          "1665"
+        ],
+        "allocation_rank": "3ad18efbed6548964085437a621ae25182c73808ff17311ce16bfab2471080e4",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:3834",
+        "source_subject": "3834",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 103,
+        "records": [
+          "4666"
+        ],
+        "allocation_rank": "355aaa5482ce79caffd1975cfdfc7397321ef50b48decccbecd5299fadc15b38",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:3846",
+        "source_subject": "3846",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 66,
+        "records": [
+          "939"
+        ],
+        "allocation_rank": "36453040d48ef32284ca0bc127736cc6734776533369f1cca5102b7d6dacafe8",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:3968",
+        "source_subject": "3968",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 46,
+        "records": [
+          "2040"
+        ],
+        "allocation_rank": "9555481e751a57a425c726e6f71762a252002bf641e26c549e555247fcdcb086",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:4027",
+        "source_subject": "4027",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 109,
+        "records": [
+          "5377"
+        ],
+        "allocation_rank": "1ed9df0b9cd6307ffdf0fc215c8c61fcbaa9c65cc17cdaf2870b4446956dca0e",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:4144",
+        "source_subject": "4144",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 101,
+        "records": [
+          "2345"
+        ],
+        "allocation_rank": "3f55141a11f5c183e6227567b2fa4e191b375ff05c67b1e8ad86235c4b5e1566",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:4147",
+        "source_subject": "4147",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 72,
+        "records": [
+          "3271"
+        ],
+        "allocation_rank": "7c60d073fb69d915012281742527be591f9df4b3e41f9877dfcdb90a366f0a4b",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:4245",
+        "source_subject": "4245",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 78,
+        "records": [
+          "2836"
+        ],
+        "allocation_rank": "4068472f51dd0672104a06acfbd54c43b5fb05cbc281fb9f171fbd20945c2419",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:4451",
+        "source_subject": "4451",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 104,
+        "records": [
+          "2549"
+        ],
+        "allocation_rank": "39d4ec345d2666277cdc3a87622b5d11548f9fad5072b610c6bb51e410b860bf",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:4500",
+        "source_subject": "4500",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 105,
+        "records": [
+          "2651"
+        ],
+        "allocation_rank": "0ab05947bab455a2b07e4d451d2231266de6fbc5504333af62ff92042e0f8089",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:4521",
+        "source_subject": "4521",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 102,
+        "records": [
+          "3918"
+        ],
+        "allocation_rank": "98300f3205d6f8a0b32ec1797daab200129cdb2c02827b9a6970caa70e506233",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:455",
+        "source_subject": "455",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 35,
+        "records": [
+          "5169"
+        ],
+        "allocation_rank": "8a824c24d54fb5124ae685893870ad67e6665c955c2d9283e8ab9d8763a5c229",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:4557",
+        "source_subject": "4557",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 117,
+        "records": [
+          "6043"
+        ],
+        "allocation_rank": "207308c95317f482eb096049472b69a1f15acbd5be9c5de7e90102d0e4586ec7",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:4626",
+        "source_subject": "4626",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 34,
+        "records": [
+          "1622"
+        ],
+        "allocation_rank": "742d74d9252f7606b719f922e44b6aaa74aa324e434acabf6e71d4315d8f461e",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:4728",
+        "source_subject": "4728",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 81,
+        "records": [
+          "2447"
+        ],
+        "allocation_rank": "99f3b5f36043cf9f6ae0d6eb2eaed50436b9606d70fcb4acba4f64f8a5f48bbf",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:4763",
+        "source_subject": "4763",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 98,
+        "records": [
+          "6374"
+        ],
+        "allocation_rank": "a5a704b7aa0e453fccebc0e5a0ab81a272f258cadece08195b0e1451d4b95339",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:4866",
+        "source_subject": "4866",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 80,
+        "records": [
+          "4012"
+        ],
+        "allocation_rank": "9facbcdfc15359bbe25a8c5d89f644c88e4c53e237363257a58c9e2b336e6f1d",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:4979",
+        "source_subject": "4979",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 95,
+        "records": [
+          "2662"
+        ],
+        "allocation_rank": "40c5fd3686cab76f3ce871a39c4a31ed5185a808a6d76afaa1cac04c2a79625b",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:499",
+        "source_subject": "499",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 104,
+        "records": [
+          "4326"
+        ],
+        "allocation_rank": "9162f891a079afb1bee1582a0da37b371e745b7ee00c0a903d5abfa306aab964",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:5096",
+        "source_subject": "5096",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 46,
+        "records": [
+          "3409"
+        ],
+        "allocation_rank": "9e254970e4b148abcaa6c9ad0b484baa70c243572d1498e074a304e2544fbf89",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:5105",
+        "source_subject": "5105",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 205,
+        "records": [
+          "2947",
+          "3492"
+        ],
+        "allocation_rank": "3fd834574d68da192042220d3392f03478c0153869880eb855ea0ea42f3a606b",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:515",
+        "source_subject": "515",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 97,
+        "records": [
+          "4290"
+        ],
+        "allocation_rank": "44b248acb64c27c31b19b1cb229b2652870a8cb099f1e4373c036b5d767998e2",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:5176",
+        "source_subject": "5176",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 110,
+        "records": [
+          "3518"
+        ],
+        "allocation_rank": "78a4bfc842e7095274b0e3eebe3ce0fde71683ceb72c223383a612174b482f8c",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:5234",
+        "source_subject": "5234",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 107,
+        "records": [
+          "2218"
+        ],
+        "allocation_rank": "7980135097c519cfc8ee2051ef67ce476fb8888998020db2f37a5360eca09703",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:5410",
+        "source_subject": "5410",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 115,
+        "records": [
+          "2717"
+        ],
+        "allocation_rank": "5a93aa53199308541b6f7923ee7e7a6088b980b3b1ca69c088c35d746f5dcca6",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:5698",
+        "source_subject": "5698",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 98,
+        "records": [
+          "1914"
+        ],
+        "allocation_rank": "bc30e51288375e10f6459391c978a19ce55a8f13b1492428fa488dc20ccb133f",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:5734",
+        "source_subject": "5734",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 105,
+        "records": [
+          "4441"
+        ],
+        "allocation_rank": "a9eb89be45bed469d9617b50dd398216b439ecab84cf951c54530d6221feba80",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:5772",
+        "source_subject": "5772",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 98,
+        "records": [
+          "2775"
+        ],
+        "allocation_rank": "b29ddc72f38427ecab351e967a5920613ab40731bcf20316112ea682ad611037",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:5903",
+        "source_subject": "5903",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 119,
+        "records": [
+          "2432"
+        ],
+        "allocation_rank": "4a1cfed06c75245bd040f63e27ecbdda959bed14d8769c3a1ebb88c0cb109d74",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:5995",
+        "source_subject": "5995",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 94,
+        "records": [
+          "2399"
+        ],
+        "allocation_rank": "1e89388fce15031b072cd24a16817fa2eb3f221174b44d94fe770dba71d9fbca",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:6047",
+        "source_subject": "6047",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 89,
+        "records": [
+          "3216"
+        ],
+        "allocation_rank": "62cf08c38519bde2e09716e8a24a1c09ae709e889a8ecb73154d0ea88029f1cb",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:6074",
+        "source_subject": "6074",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 120,
+        "records": [
+          "1023"
+        ],
+        "allocation_rank": "5d4c2ab442ee14877f75a84ad4287f8e67a7dff3cb8aa39e675a444aafdc6fc2",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:6075",
+        "source_subject": "6075",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 112,
+        "records": [
+          "1776"
+        ],
+        "allocation_rank": "46a91fbcea2995279439b6d2130c81e252bce133c30af431eae04648f1c2c01f",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "VITALDB:625",
+        "source_subject": "625",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 104,
+        "records": [
+          "4016"
+        ],
+        "allocation_rank": "72cef71b395091020b2490a8f9cb2e7ac83f620449205bbad3dfff0df04a699d",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:647",
+        "source_subject": "647",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 78,
+        "records": [
+          "1367"
+        ],
+        "allocation_rank": "9a3fb5a8affacf4ca2eb249fc09ced6dfc9841e2e97c7db43f847ca2b55fbe15",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:726",
+        "source_subject": "726",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 84,
+        "records": [
+          "1828"
+        ],
+        "allocation_rank": "2464f4531915f6f4e489aac5f751d33acf05eb7d9395087c769b5395b42bdb57",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "VITALDB:742",
+        "source_subject": "742",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 110,
+        "records": [
+          "2634"
+        ],
+        "allocation_rank": "47db910d49e844d7109390f4958378154b15d0c6469e0e7d7e49ecda7a7b6e8d",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:894",
+        "source_subject": "894",
+        "source": "VITALDB",
+        "label": 0,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 55,
+        "records": [
+          "4926"
+        ],
+        "allocation_rank": "0c4628903d90652961bad0d7e44f17265d67776c270ca141189b8d2453672c61",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "VITALDB:981",
+        "source_subject": "981",
+        "source": "VITALDB",
+        "label": 1,
+        "prior_reservation": "development_calibration_pool",
+        "role": "train",
+        "qualified_windows": 99,
+        "records": [
+          "1827"
+        ],
+        "allocation_rank": "275e688e5a708b5a2963791b1583efa14ef7660116d5ef253a575673e9ba7fe4",
+        "training_cv_fold": 1
+      }
+    ],
+    "hr_reliability": [
+      {
+        "subject": "PPG-DaLiA:S10",
+        "source_subject": "S10",
+        "source": "PPG-DaLiA",
+        "role": "conformal",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S10\\S10.pkl",
+        "allocation_rank": "f7893c7e88578f85fe6746387d4bdbb39b17de268552e1fc6383c915499e8ede"
+      },
+      {
+        "subject": "PPG-DaLiA:S4",
+        "source_subject": "S4",
+        "source": "PPG-DaLiA",
+        "role": "conformal",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S4\\S4.pkl",
+        "allocation_rank": "f5e9df867f18b303a20bcad6ef00771213a288ce6a25c36b838a2fe9d83d4498"
+      },
+      {
+        "subject": "PPG-DaLiA:S5",
+        "source_subject": "S5",
+        "source": "PPG-DaLiA",
+        "role": "conformal",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S5\\S5.pkl",
+        "allocation_rank": "fba1dd22985ffd26e9b12bc04c40d41a71665478b3051577d64988ce4c988177"
+      },
+      {
+        "subject": "GALAXYPPG:P02",
+        "source_subject": "P02",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 124,
+        "wrist_windows": 124
+      },
+      {
+        "subject": "GALAXYPPG:P03",
+        "source_subject": "P03",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 114,
+        "wrist_windows": 114
+      },
+      {
+        "subject": "GALAXYPPG:P04",
+        "source_subject": "P04",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 125,
+        "wrist_windows": 125
+      },
+      {
+        "subject": "GALAXYPPG:P05",
+        "source_subject": "P05",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 118,
+        "wrist_windows": 118
+      },
+      {
+        "subject": "GALAXYPPG:P06",
+        "source_subject": "P06",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 124,
+        "wrist_windows": 124
+      },
+      {
+        "subject": "GALAXYPPG:P07",
+        "source_subject": "P07",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 104,
+        "wrist_windows": 104
+      },
+      {
+        "subject": "GALAXYPPG:P08",
+        "source_subject": "P08",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 119,
+        "wrist_windows": 119
+      },
+      {
+        "subject": "GALAXYPPG:P09",
+        "source_subject": "P09",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 118,
+        "wrist_windows": 118
+      },
+      {
+        "subject": "GALAXYPPG:P10",
+        "source_subject": "P10",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 125,
+        "wrist_windows": 125
+      },
+      {
+        "subject": "GALAXYPPG:P11",
+        "source_subject": "P11",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 120,
+        "wrist_windows": 120
+      },
+      {
+        "subject": "GALAXYPPG:P12",
+        "source_subject": "P12",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 126,
+        "wrist_windows": 126
+      },
+      {
+        "subject": "GALAXYPPG:P13",
+        "source_subject": "P13",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 125,
+        "wrist_windows": 125
+      },
+      {
+        "subject": "GALAXYPPG:P14",
+        "source_subject": "P14",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 125,
+        "wrist_windows": 125
+      },
+      {
+        "subject": "GALAXYPPG:P15",
+        "source_subject": "P15",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 91,
+        "wrist_windows": 91
+      },
+      {
+        "subject": "GALAXYPPG:P16",
+        "source_subject": "P16",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 120,
+        "wrist_windows": 120
+      },
+      {
+        "subject": "GALAXYPPG:P17",
+        "source_subject": "P17",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 123,
+        "wrist_windows": 123
+      },
+      {
+        "subject": "GALAXYPPG:P18",
+        "source_subject": "P18",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 124,
+        "wrist_windows": 124
+      },
+      {
+        "subject": "GALAXYPPG:P19",
+        "source_subject": "P19",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 112,
+        "wrist_windows": 112
+      },
+      {
+        "subject": "GALAXYPPG:P20",
+        "source_subject": "P20",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 115,
+        "wrist_windows": 115
+      },
+      {
+        "subject": "GALAXYPPG:P21",
+        "source_subject": "P21",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 125,
+        "wrist_windows": 125
+      },
+      {
+        "subject": "GALAXYPPG:P22",
+        "source_subject": "P22",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 91,
+        "wrist_windows": 91
+      },
+      {
+        "subject": "GALAXYPPG:P23",
+        "source_subject": "P23",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 120,
+        "wrist_windows": 120
+      },
+      {
+        "subject": "GALAXYPPG:P24",
+        "source_subject": "P24",
+        "source": "GALAXYPPG",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 123,
+        "wrist_windows": 123
+      },
+      {
+        "subject": "PPGSPORT:S01",
+        "source_subject": "S01",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 274,
+        "wrist_windows": 548
+      },
+      {
+        "subject": "PPGSPORT:S02",
+        "source_subject": "S02",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 278,
+        "wrist_windows": 556
+      },
+      {
+        "subject": "PPGSPORT:S03",
+        "source_subject": "S03",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 280,
+        "wrist_windows": 560
+      },
+      {
+        "subject": "PPGSPORT:S04",
+        "source_subject": "S04",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 286,
+        "wrist_windows": 572
+      },
+      {
+        "subject": "PPGSPORT:S05",
+        "source_subject": "S05",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 283,
+        "wrist_windows": 566
+      },
+      {
+        "subject": "PPGSPORT:S06",
+        "source_subject": "S06",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 275,
+        "wrist_windows": 550
+      },
+      {
+        "subject": "PPGSPORT:S07",
+        "source_subject": "S07",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 288,
+        "wrist_windows": 576
+      },
+      {
+        "subject": "PPGSPORT:S08",
+        "source_subject": "S08",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 280,
+        "wrist_windows": 560
+      },
+      {
+        "subject": "PPGSPORT:S09",
+        "source_subject": "S09",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 223,
+        "wrist_windows": 446
+      },
+      {
+        "subject": "PPGSPORT:S10",
+        "source_subject": "S10",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 259,
+        "wrist_windows": 518
+      },
+      {
+        "subject": "PPGSPORT:S11",
+        "source_subject": "S11",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 277,
+        "wrist_windows": 554
+      },
+      {
+        "subject": "PPGSPORT:S12",
+        "source_subject": "S12",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 282,
+        "wrist_windows": 564
+      },
+      {
+        "subject": "PPGSPORT:S13",
+        "source_subject": "S13",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 286,
+        "wrist_windows": 572
+      },
+      {
+        "subject": "PPGSPORT:S14",
+        "source_subject": "S14",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 281,
+        "wrist_windows": 562
+      },
+      {
+        "subject": "PPGSPORT:S15",
+        "source_subject": "S15",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 283,
+        "wrist_windows": 566
+      },
+      {
+        "subject": "PPGSPORT:S16",
+        "source_subject": "S16",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 283,
+        "wrist_windows": 566
+      },
+      {
+        "subject": "PPGSPORT:S17",
+        "source_subject": "S17",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 286,
+        "wrist_windows": 572
+      },
+      {
+        "subject": "PPGSPORT:S19",
+        "source_subject": "S19",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 283,
+        "wrist_windows": 566
+      },
+      {
+        "subject": "PPGSPORT:S20",
+        "source_subject": "S20",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 237,
+        "wrist_windows": 474
+      },
+      {
+        "subject": "PPGSPORT:S21",
+        "source_subject": "S21",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 277,
+        "wrist_windows": 554
+      },
+      {
+        "subject": "PPGSPORT:S22",
+        "source_subject": "S22",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 275,
+        "wrist_windows": 550
+      },
+      {
+        "subject": "PPGSPORT:S23",
+        "source_subject": "S23",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 283,
+        "wrist_windows": 566
+      },
+      {
+        "subject": "PPGSPORT:S24",
+        "source_subject": "S24",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 279,
+        "wrist_windows": 558
+      },
+      {
+        "subject": "PPGSPORT:S25",
+        "source_subject": "S25",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 285,
+        "wrist_windows": 570
+      },
+      {
+        "subject": "PPGSPORT:S26",
+        "source_subject": "S26",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 282,
+        "wrist_windows": 564
+      },
+      {
+        "subject": "PPGSPORT:S27",
+        "source_subject": "S27",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 284,
+        "wrist_windows": 568
+      },
+      {
+        "subject": "PPGSPORT:S28",
+        "source_subject": "S28",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 256,
+        "wrist_windows": 512
+      },
+      {
+        "subject": "PPGSPORT:S29",
+        "source_subject": "S29",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 261,
+        "wrist_windows": 522
+      },
+      {
+        "subject": "PPGSPORT:S30",
+        "source_subject": "S30",
+        "source": "PPGSPORT",
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation_only",
+        "distinct_time_windows": 282,
+        "wrist_windows": 564
+      },
+      {
+        "subject": "PPG-DaLiA:S12",
+        "source_subject": "S12",
+        "source": "PPG-DaLiA",
+        "role": "policy",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S12\\S12.pkl",
+        "allocation_rank": "d13b514349a3f670e40f133173a863f246560e5a08af16ae876d74770c3c7f9f"
+      },
+      {
+        "subject": "PPG-DaLiA:S6",
+        "source_subject": "S6",
+        "source": "PPG-DaLiA",
+        "role": "policy",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S6\\S6.pkl",
+        "allocation_rank": "b3b46e49fa32606221ce2431419636b0d7b7fb4cc6f142dc0261fa15bfad6b51"
+      },
+      {
+        "subject": "PPG-DaLiA:S8",
+        "source_subject": "S8",
+        "source": "PPG-DaLiA",
+        "role": "policy",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S8\\S8.pkl",
+        "allocation_rank": "d99a9cd418eb793cfa0153d6ab9c5d241c84e25bbf40689c094513ee4795160d"
+      },
+      {
+        "subject": "PPG-DaLiA:S1",
+        "source_subject": "S1",
+        "source": "PPG-DaLiA",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S1\\S1.pkl",
+        "allocation_rank": "08f6da9a348033815c0265efe3a87af55810ab03b7d871a3bed9f3765262f955",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "PPG-DaLiA:S11",
+        "source_subject": "S11",
+        "source": "PPG-DaLiA",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S11\\S11.pkl",
+        "allocation_rank": "78f94276219c919f46629d3172c2c29e0667c263f8392b0667274cfa8cf921ec",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "PPG-DaLiA:S13",
+        "source_subject": "S13",
+        "source": "PPG-DaLiA",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S13\\S13.pkl",
+        "allocation_rank": "275150bc0b812144d69aaea1e314b4c8ee4ee3852bf1cde7acaeb0a1938ade1f",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "PPG-DaLiA:S14",
+        "source_subject": "S14",
+        "source": "PPG-DaLiA",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S14\\S14.pkl",
+        "allocation_rank": "7ee04103b98cd6af6c0a8314cffefed50207b1e97980b154e785c159923ecbc4",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "PPG-DaLiA:S15",
+        "source_subject": "S15",
+        "source": "PPG-DaLiA",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S15\\S15.pkl",
+        "allocation_rank": "2d7d0b65db6689588b276c8c77a76f6a2a0ba79a79ac01fe07119dde8c6c405a",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "PPG-DaLiA:S2",
+        "source_subject": "S2",
+        "source": "PPG-DaLiA",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S2\\S2.pkl",
+        "allocation_rank": "2691f0f2a880bd60c5e14d05af523f1fd68b2e6f5d1df850b8d5570f0f0c10c7",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "PPG-DaLiA:S3",
+        "source_subject": "S3",
+        "source": "PPG-DaLiA",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S3\\S3.pkl",
+        "allocation_rank": "90ca0a81145f5c2998ea4815cee719c0556a843f4d97f1bc4d849b6b7bf342ad",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "PPG-DaLiA:S7",
+        "source_subject": "S7",
+        "source": "PPG-DaLiA",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S7\\S7.pkl",
+        "allocation_rank": "58237c82cd62b5c34e3ddeb42f0c5701aa8e4d25a95854a5d4488fc8ef02b648",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "PPG-DaLiA:S9",
+        "source_subject": "S9",
+        "source": "PPG-DaLiA",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\ppg+dalia\\data\\PPG_FieldStudy\\S9\\S9.pkl",
+        "allocation_rank": "1af38d322fcd2875c8aa1109ca6edb3370604eff68b84f2bbef99e567b8e6eba",
+        "training_cv_fold": 2
+      }
+    ],
+    "stress": [
+      {
+        "subject": "WESAD:S13",
+        "source_subject": "S13",
+        "source": "WESAD",
+        "role": "conformal",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S13\\S13.pkl",
+        "allocation_rank": "c787233df6d88bb07a111d56bb2d0ca383e8adfdbcf6992051d1717b1c3e3205"
+      },
+      {
+        "subject": "WESAD:S7",
+        "source_subject": "S7",
+        "source": "WESAD",
+        "role": "conformal",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S7\\S7.pkl",
+        "allocation_rank": "db10b9df672716d8b5005a76d8a5248e960652dfe9187f25416c3fe70ed926ec"
+      },
+      {
+        "subject": "WESAD:S8",
+        "source_subject": "S8",
+        "source": "WESAD",
+        "role": "conformal",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S8\\S8.pkl",
+        "allocation_rank": "c6f5d3ff79880a4187b79102ba2c77c4328182a356ebc350a949b0bd69cc8f3b"
+      },
+      {
+        "subject": "Stress-Predict:S02",
+        "source_subject": "S02",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 107,
+        "negative_windows": 229
+      },
+      {
+        "subject": "Stress-Predict:S03",
+        "source_subject": "S03",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 87,
+        "negative_windows": 223
+      },
+      {
+        "subject": "Stress-Predict:S04",
+        "source_subject": "S04",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 98,
+        "negative_windows": 235
+      },
+      {
+        "subject": "Stress-Predict:S05",
+        "source_subject": "S05",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 102,
+        "negative_windows": 205
+      },
+      {
+        "subject": "Stress-Predict:S07",
+        "source_subject": "S07",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 92,
+        "negative_windows": 225
+      },
+      {
+        "subject": "Stress-Predict:S08",
+        "source_subject": "S08",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 92,
+        "negative_windows": 201
+      },
+      {
+        "subject": "Stress-Predict:S09",
+        "source_subject": "S09",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 88,
+        "negative_windows": 210
+      },
+      {
+        "subject": "Stress-Predict:S10",
+        "source_subject": "S10",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 91,
+        "negative_windows": 192
+      },
+      {
+        "subject": "Stress-Predict:S11",
+        "source_subject": "S11",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 109,
+        "negative_windows": 198
+      },
+      {
+        "subject": "Stress-Predict:S12",
+        "source_subject": "S12",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 102,
+        "negative_windows": 211
+      },
+      {
+        "subject": "Stress-Predict:S13",
+        "source_subject": "S13",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 108,
+        "negative_windows": 205
+      },
+      {
+        "subject": "Stress-Predict:S14",
+        "source_subject": "S14",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 110,
+        "negative_windows": 227
+      },
+      {
+        "subject": "Stress-Predict:S15",
+        "source_subject": "S15",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 102,
+        "negative_windows": 222
+      },
+      {
+        "subject": "Stress-Predict:S16",
+        "source_subject": "S16",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 92,
+        "negative_windows": 231
+      },
+      {
+        "subject": "Stress-Predict:S19",
+        "source_subject": "S19",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 83,
+        "negative_windows": 215
+      },
+      {
+        "subject": "Stress-Predict:S20",
+        "source_subject": "S20",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 96,
+        "negative_windows": 223
+      },
+      {
+        "subject": "Stress-Predict:S21",
+        "source_subject": "S21",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 105,
+        "negative_windows": 196
+      },
+      {
+        "subject": "Stress-Predict:S22",
+        "source_subject": "S22",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 105,
+        "negative_windows": 180
+      },
+      {
+        "subject": "Stress-Predict:S23",
+        "source_subject": "S23",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 98,
+        "negative_windows": 189
+      },
+      {
+        "subject": "Stress-Predict:S24",
+        "source_subject": "S24",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 98,
+        "negative_windows": 208
+      },
+      {
+        "subject": "Stress-Predict:S25",
+        "source_subject": "S25",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 97,
+        "negative_windows": 203
+      },
+      {
+        "subject": "Stress-Predict:S26",
+        "source_subject": "S26",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 99,
+        "negative_windows": 204
+      },
+      {
+        "subject": "Stress-Predict:S27",
+        "source_subject": "S27",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 110,
+        "negative_windows": 206
+      },
+      {
+        "subject": "Stress-Predict:S28",
+        "source_subject": "S28",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 100,
+        "negative_windows": 209
+      },
+      {
+        "subject": "Stress-Predict:S29",
+        "source_subject": "S29",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 99,
+        "negative_windows": 211
+      },
+      {
+        "subject": "Stress-Predict:S31",
+        "source_subject": "S31",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 99,
+        "negative_windows": 211
+      },
+      {
+        "subject": "Stress-Predict:S32",
+        "source_subject": "S32",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 100,
+        "negative_windows": 201
+      },
+      {
+        "subject": "Stress-Predict:S33",
+        "source_subject": "S33",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 104,
+        "negative_windows": 199
+      },
+      {
+        "subject": "Stress-Predict:S34",
+        "source_subject": "S34",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 100,
+        "negative_windows": 236
+      },
+      {
+        "subject": "Stress-Predict:S35",
+        "source_subject": "S35",
+        "source": "Stress-Predict",
+        "role": "evaluation",
+        "positive_windows": 105,
+        "negative_windows": 227
+      },
+      {
+        "subject": "WESAD:S10",
+        "source_subject": "S10",
+        "source": "WESAD",
+        "role": "policy",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S10\\S10.pkl",
+        "allocation_rank": "a80dea8163d8d5bb29611dc4270594856ee14ea1ad40792ee89d7c06c7af773d"
+      },
+      {
+        "subject": "WESAD:S16",
+        "source_subject": "S16",
+        "source": "WESAD",
+        "role": "policy",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S16\\S16.pkl",
+        "allocation_rank": "a07dad02bb4b06a5def25d1a899bd20b466e4aa8b400cd8dadc890cefb092c47"
+      },
+      {
+        "subject": "WESAD:S6",
+        "source_subject": "S6",
+        "source": "WESAD",
+        "role": "policy",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S6\\S6.pkl",
+        "allocation_rank": "ac817952d66b393742e7a0b2df1281097f338bf3fe5fafa5c37245313f5623c5"
+      },
+      {
+        "subject": "WearableDevice_V1:S01",
+        "source_subject": "S01",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S02",
+        "source_subject": "S02",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S03",
+        "source_subject": "S03",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S04",
+        "source_subject": "S04",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S05",
+        "source_subject": "S05",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S06",
+        "source_subject": "S06",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S07",
+        "source_subject": "S07",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S08",
+        "source_subject": "S08",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S09",
+        "source_subject": "S09",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S10",
+        "source_subject": "S10",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S11",
+        "source_subject": "S11",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S12",
+        "source_subject": "S12",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S13",
+        "source_subject": "S13",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S14",
+        "source_subject": "S14",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S15",
+        "source_subject": "S15",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S16",
+        "source_subject": "S16",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S17",
+        "source_subject": "S17",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V1:S18",
+        "source_subject": "S18",
+        "source": "WearableDevice_V1",
+        "role": "supplementary_evaluation",
+        "protocol": "V1",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f01",
+        "source_subject": "f01",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f02",
+        "source_subject": "f02",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f03",
+        "source_subject": "f03",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f04",
+        "source_subject": "f04",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f05",
+        "source_subject": "f05",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f06",
+        "source_subject": "f06",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f08",
+        "source_subject": "f08",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f09",
+        "source_subject": "f09",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f10",
+        "source_subject": "f10",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f11",
+        "source_subject": "f11",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f12",
+        "source_subject": "f12",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f13",
+        "source_subject": "f13",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f14",
+        "source_subject": "f14",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f15",
+        "source_subject": "f15",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f16",
+        "source_subject": "f16",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f17",
+        "source_subject": "f17",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WearableDevice_V2:f18",
+        "source_subject": "f18",
+        "source": "WearableDevice_V2",
+        "role": "supplementary_evaluation",
+        "protocol": "V2",
+        "segment_rule": "a/b inherit same person, never join gaps"
+      },
+      {
+        "subject": "WESAD:S11",
+        "source_subject": "S11",
+        "source": "WESAD",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S11\\S11.pkl",
+        "allocation_rank": "959942aff34acc0d2c648b7af1513074926ad516ac820f2a21b90ec34c3c7aec",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "WESAD:S14",
+        "source_subject": "S14",
+        "source": "WESAD",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S14\\S14.pkl",
+        "allocation_rank": "07762ff93a86b2337771c5f1667a91861c2bdb60fb29d96123af040a5d7e548e",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "WESAD:S15",
+        "source_subject": "S15",
+        "source": "WESAD",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S15\\S15.pkl",
+        "allocation_rank": "270a18b54ee4bdb141ac10b994c8d40a4a868071040e81b23a05a5d032320100",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "WESAD:S17",
+        "source_subject": "S17",
+        "source": "WESAD",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S17\\S17.pkl",
+        "allocation_rank": "40c8b2f942a3f537a4a223a38a8475a1bbc59157e87f8923c42bb847bb758de8",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "WESAD:S2",
+        "source_subject": "S2",
+        "source": "WESAD",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S2\\S2.pkl",
+        "allocation_rank": "76e11b26bc8022510423d0e9e72edd9e885d03534f2c2a76d8e5156a0c6eef23",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "WESAD:S3",
+        "source_subject": "S3",
+        "source": "WESAD",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S3\\S3.pkl",
+        "allocation_rank": "421895b406a16a038a20f9c7beec7eba134158edaa99b149bf0e4efce5382201",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "WESAD:S4",
+        "source_subject": "S4",
+        "source": "WESAD",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S4\\S4.pkl",
+        "allocation_rank": "7fdc4ec4deb327c9a7b6c96581560b0d4c1764804e9527a77f9b4f1879d1ee96",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "WESAD:S5",
+        "source_subject": "S5",
+        "source": "WESAD",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S5\\S5.pkl",
+        "allocation_rank": "61ce2d4e3bb837bff249be06b53ba59ba4b3f923c3f2597b225141a78f7e4883",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "WESAD:S9",
+        "source_subject": "S9",
+        "source": "WESAD",
+        "role": "train",
+        "raw_path": "D:\\大学学习\\论文\\论文项目\\URL\\WESAD\\WESAD\\S9\\S9.pkl",
+        "allocation_rank": "4df39fa1d3af64fb184b7fd96f294905150b09490f2393b1da66a920e882e1ae",
+        "training_cv_fold": 1
+      }
+    ],
+    "continuous_monitoring": [
+      {
+        "subject": "SHDB_56f352c2fb9a0daa",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_56f352c2fb9a0daa",
+        "records": [
+          "113"
+        ],
+        "role": "conformal",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 526,
+        "negative_valid_windows": 8014,
+        "eligible_events": 1,
+        "allocation_rank": "ea0f8c1503b6d1264c4f7f62f31d482601f5a2596e06e5acd94d630cf962cbdd"
+      },
+      {
+        "subject": "SHDB_8effe1bd54b5cebe",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_8effe1bd54b5cebe",
+        "records": [
+          "110"
+        ],
+        "role": "conformal",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 75,
+        "negative_valid_windows": 8557,
+        "eligible_events": 1,
+        "allocation_rank": "e4cf3caa3af256a93fc60155f433de1ee3dd37e0b11e7b19831547703c570bbe"
+      },
+      {
+        "subject": "SHDB_935e0a4e83965856",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_935e0a4e83965856",
+        "records": [
+          "010"
+        ],
+        "role": "conformal",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 6240,
+        "negative_valid_windows": 2389,
+        "eligible_events": 2,
+        "allocation_rank": "df55b5e3ceccd10598530fa83fe94a7213a7e95eb1fbaa817aa20aae95562c91"
+      },
+      {
+        "subject": "SHDB_9bbeeefa3efce92e",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_9bbeeefa3efce92e",
+        "records": [
+          "126"
+        ],
+        "role": "conformal",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 41,
+        "negative_valid_windows": 8518,
+        "eligible_events": 5,
+        "allocation_rank": "ca834c56762d4f96d4c84a59f11425b3c096bf8e5cc442b0485b2db4889f6e0a"
+      },
+      {
+        "subject": "SHDB_aaf8762040abe020",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_aaf8762040abe020",
+        "records": [
+          "006"
+        ],
+        "role": "conformal",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 6225,
+        "negative_valid_windows": 2412,
+        "eligible_events": 1,
+        "allocation_rank": "b33b329c42ce98d6721b0a86408c8217d022910a017677b5df10f3d35a6cda06"
+      },
+      {
+        "subject": "SHDB_afa2e9735daa38df",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_afa2e9735daa38df",
+        "records": [
+          "029"
+        ],
+        "role": "conformal",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 7227,
+        "negative_valid_windows": 1306,
+        "eligible_events": 38,
+        "allocation_rank": "f208f679f0bdbb9f03124f9b755e7ddae63e89dca943d5f6d4d065725933b18c"
+      },
+      {
+        "subject": "SHDB_db7b9b5030c913d2",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_db7b9b5030c913d2",
+        "records": [
+          "127"
+        ],
+        "role": "conformal",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 666,
+        "negative_valid_windows": 7967,
+        "eligible_events": 3,
+        "allocation_rank": "fa5d6f224ddbef89fa6fafed4d0e55008cb23c125630c6d451754e50300a0535"
+      },
+      {
+        "subject": "SHDB_e98bb3aad1829c84",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_e98bb3aad1829c84",
+        "records": [
+          "042"
+        ],
+        "role": "conformal",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 2390,
+        "negative_valid_windows": 6247,
+        "eligible_events": 1,
+        "allocation_rank": "fac4803a934acf1458e87a1bf1e28d5f7fa554b12263932726f6d5326de4cf4b"
+      },
+      {
+        "subject": "SHDB_efe6fb3c6223f2ab",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_efe6fb3c6223f2ab",
+        "records": [
+          "003"
+        ],
+        "role": "conformal",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 2451,
+        "negative_valid_windows": 6177,
+        "eligible_events": 1,
+        "allocation_rank": "ea7d2cbb7b4a9c1bffc1597d999f7da92e86b739f64b4c75fef9052aa9d7f68d"
+      },
+      {
+        "subject": "SHDB_00526650917dba89",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_00526650917dba89",
+        "records": [
+          "007"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 2904,
+        "negative_valid_windows": 5403,
+        "eligible_events": 17
+      },
+      {
+        "subject": "SHDB_0271ddbc6b37581f",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_0271ddbc6b37581f",
+        "records": [
+          "135"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 458,
+        "negative_valid_windows": 8177,
+        "eligible_events": 1
+      },
+      {
+        "subject": "SHDB_07cef3039b92957b",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_07cef3039b92957b",
+        "records": [
+          "143"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 5460,
+        "negative_valid_windows": 3177,
+        "eligible_events": 1
+      },
+      {
+        "subject": "SHDB_0b2ac2e4a02f0e8c",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_0b2ac2e4a02f0e8c",
+        "records": [
+          "040"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 1259,
+        "negative_valid_windows": 7357,
+        "eligible_events": 2
+      },
+      {
+        "subject": "SHDB_0f7ef67eeef26e03",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_0f7ef67eeef26e03",
+        "records": [
+          "025"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 3179,
+        "negative_valid_windows": 5401,
+        "eligible_events": 22
+      },
+      {
+        "subject": "SHDB_18b86c20d03d91c9",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_18b86c20d03d91c9",
+        "records": [
+          "021"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 734,
+        "negative_valid_windows": 7892,
+        "eligible_events": 3
+      },
+      {
+        "subject": "SHDB_1ab988d6e8beb2ec",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_1ab988d6e8beb2ec",
+        "records": [
+          "039"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 266,
+        "negative_valid_windows": 8371,
+        "eligible_events": 1
+      },
+      {
+        "subject": "SHDB_1cd8df83ad57184c",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_1cd8df83ad57184c",
+        "records": [
+          "109"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 570,
+        "negative_valid_windows": 7999,
+        "eligible_events": 9
+      },
+      {
+        "subject": "SHDB_28c7dd4d663d501d",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_28c7dd4d663d501d",
+        "records": [
+          "140"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 8277,
+        "negative_valid_windows": 327,
+        "eligible_events": 2
+      },
+      {
+        "subject": "SHDB_337bab777e925717",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_337bab777e925717",
+        "records": [
+          "027"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 40,
+        "negative_valid_windows": 8563,
+        "eligible_events": 1
+      },
+      {
+        "subject": "SHDB_3d251a433767643e",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_3d251a433767643e",
+        "records": [
+          "033"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 934,
+        "negative_valid_windows": 7684,
+        "eligible_events": 2
+      },
+      {
+        "subject": "SHDB_551241a6e1e07dc2",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_551241a6e1e07dc2",
+        "records": [
+          "043"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 2136,
+        "negative_valid_windows": 6434,
+        "eligible_events": 2
+      },
+      {
+        "subject": "SHDB_5585a90919b3472b",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_5585a90919b3472b",
+        "records": [
+          "106"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 142,
+        "negative_valid_windows": 8401,
+        "eligible_events": 14
+      },
+      {
+        "subject": "SHDB_5f56633a4d082249",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_5f56633a4d082249",
+        "records": [
+          "009"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 1027,
+        "negative_valid_windows": 7610,
+        "eligible_events": 1
+      },
+      {
+        "subject": "SHDB_6610d4c5499ea170",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_6610d4c5499ea170",
+        "records": [
+          "130"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 50,
+        "negative_valid_windows": 8587,
+        "eligible_events": 1
+      },
+      {
+        "subject": "SHDB_6eaa1eb62b72978f",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_6eaa1eb62b72978f",
+        "records": [
+          "129",
+          "133"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 5050,
+        "negative_valid_windows": 12178,
+        "eligible_events": 7
+      },
+      {
+        "subject": "SHDB_90a9b59d930a50ff",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_90a9b59d930a50ff",
+        "records": [
+          "017"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 156,
+        "negative_valid_windows": 8503,
+        "eligible_events": 4
+      },
+      {
+        "subject": "SHDB_90ba1abe35d67b7e",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_90ba1abe35d67b7e",
+        "records": [
+          "138"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 7050,
+        "negative_valid_windows": 1534,
+        "eligible_events": 23
+      },
+      {
+        "subject": "SHDB_9293a5851f8b49ca",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_9293a5851f8b49ca",
+        "records": [
+          "014"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 4592,
+        "negative_valid_windows": 4027,
+        "eligible_events": 6
+      },
+      {
+        "subject": "SHDB_94c57baa0c56e3fe",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_94c57baa0c56e3fe",
+        "records": [
+          "023"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 459,
+        "negative_valid_windows": 8175,
+        "eligible_events": 1
+      },
+      {
+        "subject": "SHDB_9e38cd6cf43f1668",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_9e38cd6cf43f1668",
+        "records": [
+          "012"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 122,
+        "negative_valid_windows": 8471,
+        "eligible_events": 4
+      },
+      {
+        "subject": "SHDB_a493d4fd72a5b2e0",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_a493d4fd72a5b2e0",
+        "records": [
+          "142"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 1638,
+        "negative_valid_windows": 6963,
+        "eligible_events": 3
+      },
+      {
+        "subject": "SHDB_a6d119d0f9a2ed15",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_a6d119d0f9a2ed15",
+        "records": [
+          "035",
+          "036"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 1608,
+        "negative_valid_windows": 15617,
+        "eligible_events": 12
+      },
+      {
+        "subject": "SHDB_baf7a4a57e59d8ef",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_baf7a4a57e59d8ef",
+        "records": [
+          "046"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 37,
+        "negative_valid_windows": 8576,
+        "eligible_events": 7
+      },
+      {
+        "subject": "SHDB_bf26019e9e0970a3",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_bf26019e9e0970a3",
+        "records": [
+          "112"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 3936,
+        "negative_valid_windows": 4671,
+        "eligible_events": 1
+      },
+      {
+        "subject": "SHDB_cb4ed7b914d68125",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_cb4ed7b914d68125",
+        "records": [
+          "008"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 5870,
+        "negative_valid_windows": 2763,
+        "eligible_events": 1
+      },
+      {
+        "subject": "SHDB_d8aa054ebc148fe7",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_d8aa054ebc148fe7",
+        "records": [
+          "134"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 864,
+        "negative_valid_windows": 7773,
+        "eligible_events": 1
+      },
+      {
+        "subject": "SHDB_ebef80ad17a2b4eb",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_ebef80ad17a2b4eb",
+        "records": [
+          "045"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 1978,
+        "negative_valid_windows": 6587,
+        "eligible_events": 16
+      },
+      {
+        "subject": "SHDB_f7b9b9f10cdb4fe7",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_f7b9b9f10cdb4fe7",
+        "records": [
+          "004"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 840,
+        "negative_valid_windows": 7827,
+        "eligible_events": 1
+      },
+      {
+        "subject": "SHDB_ff1765229b3fa1eb",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_ff1765229b3fa1eb",
+        "records": [
+          "105"
+        ],
+        "role": "evaluation",
+        "prior_reservation": "independent_evaluation",
+        "positive_valid_windows": 461,
+        "negative_valid_windows": 8176,
+        "eligible_events": 1
+      },
+      {
+        "subject": "SHDB_09177306c3d175ff",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_09177306c3d175ff",
+        "records": [
+          "125"
+        ],
+        "role": "policy",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 195,
+        "negative_valid_windows": 8442,
+        "eligible_events": 1,
+        "allocation_rank": "839594c4cb695eb3e9d4072c094d0056633deef57570cf8d70c4a1920766c85c"
+      },
+      {
+        "subject": "SHDB_31085641f96827e6",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_31085641f96827e6",
+        "records": [
+          "011"
+        ],
+        "role": "policy",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 2108,
+        "negative_valid_windows": 6555,
+        "eligible_events": 3,
+        "allocation_rank": "7e6b34427f1d0d54e135d42d4f5b9e01aec5075dfed06ed8dc8f8870b5495283"
+      },
+      {
+        "subject": "SHDB_43afb3c5fe9e124c",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_43afb3c5fe9e124c",
+        "records": [
+          "031"
+        ],
+        "role": "policy",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 2202,
+        "negative_valid_windows": 6424,
+        "eligible_events": 4,
+        "allocation_rank": "b308cdddb14fec3c4002d6db44d8b5390a36dbd54ab6989ee906b455de2fdfed"
+      },
+      {
+        "subject": "SHDB_75646ea1ac726b70",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_75646ea1ac726b70",
+        "records": [
+          "137"
+        ],
+        "role": "policy",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 4834,
+        "negative_valid_windows": 3760,
+        "eligible_events": 5,
+        "allocation_rank": "832121cbb18a5428af7a23e74d842c9a766de62edeadf50730cdea5e4ec1bfc9"
+      },
+      {
+        "subject": "SHDB_807d6854d5d056d4",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_807d6854d5d056d4",
+        "records": [
+          "037"
+        ],
+        "role": "policy",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 444,
+        "negative_valid_windows": 8161,
+        "eligible_events": 1,
+        "allocation_rank": "ae4605c79b97b70b76779140168bd0055d440225f835a51df934b8de00ccd353"
+      },
+      {
+        "subject": "SHDB_021f9b93835a84fe",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_021f9b93835a84fe",
+        "records": [
+          "136"
+        ],
+        "role": "train",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 1071,
+        "negative_valid_windows": 7564,
+        "eligible_events": 1,
+        "allocation_rank": "5a4c7e4817f7100684e2830912658233c3423681043ab0481cd45e0f8cc503d5",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "SHDB_1cebfc2fbfb55ac2",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_1cebfc2fbfb55ac2",
+        "records": [
+          "114"
+        ],
+        "role": "train",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 33,
+        "negative_valid_windows": 8604,
+        "eligible_events": 2,
+        "allocation_rank": "408e37003fcf64343b2016051646e4e2131203893f92edefd887a395cc60a228",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "SHDB_21da51a785a37193",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_21da51a785a37193",
+        "records": [
+          "041"
+        ],
+        "role": "train",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 1810,
+        "negative_valid_windows": 6827,
+        "eligible_events": 1,
+        "allocation_rank": "786b4b572cc21aa1ad5cdfe4a64884dbeb7956c97f98a87ac6f50d463137b336",
+        "training_cv_fold": 1
+      },
+      {
+        "subject": "SHDB_32f4a12cac66c87d",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_32f4a12cac66c87d",
+        "records": [
+          "048"
+        ],
+        "role": "train",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 298,
+        "negative_valid_windows": 8339,
+        "eligible_events": 1,
+        "allocation_rank": "0dc58a069b878fd3c3873a5ce3e64a0bf5d603cca7fee1275a8423e2e9d29eba",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "SHDB_450c0e3f02e28f33",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_450c0e3f02e28f33",
+        "records": [
+          "019"
+        ],
+        "role": "train",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 1454,
+        "negative_valid_windows": 7157,
+        "eligible_events": 5,
+        "allocation_rank": "6526895e8aa633ad3e3ecf870b99945a1b0fd7d5ccaa22ff6ffd75e5fc50d65b",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "SHDB_6429ba9aae606f19",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_6429ba9aae606f19",
+        "records": [
+          "051"
+        ],
+        "role": "train",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 4954,
+        "negative_valid_windows": 3290,
+        "eligible_events": 3,
+        "allocation_rank": "79deea71ab166ab5f0c2b659781630204b793025424e87f2c2b3af8507049f7e",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "SHDB_9cbb571f33fcacfa",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_9cbb571f33fcacfa",
+        "records": [
+          "015",
+          "047"
+        ],
+        "role": "train",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 605,
+        "negative_valid_windows": 16570,
+        "eligible_events": 13,
+        "allocation_rank": "4f568a2123fb50718c2c63da89cc2b6b9004960663ddde3608ff976e742c1bca",
+        "training_cv_fold": 2
+      },
+      {
+        "subject": "SHDB_b51bb0fba7d340c6",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_b51bb0fba7d340c6",
+        "records": [
+          "034"
+        ],
+        "role": "train",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 6648,
+        "negative_valid_windows": 1990,
+        "eligible_events": 1,
+        "allocation_rank": "791f5f841a5a26cec00862d495a5b3e27773c92ffaaa8818b3f0dd57a385a7fe",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "SHDB_d0fcc2ad61699a8e",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_d0fcc2ad61699a8e",
+        "records": [
+          "052",
+          "128"
+        ],
+        "role": "train",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 4380,
+        "negative_valid_windows": 12830,
+        "eligible_events": 2,
+        "allocation_rank": "172a0364b401207faea05d5e4ca5014632e8ce1fa4f3261bff04a5eae0d2314f",
+        "training_cv_fold": 0
+      },
+      {
+        "subject": "SHDB_d484c981aaeef7e2",
+        "source": "SHDB-AF",
+        "source_subject": "SHDB_d484c981aaeef7e2",
+        "records": [
+          "132"
+        ],
+        "role": "train",
+        "prior_reservation": "development_calibration_candidates",
+        "positive_valid_windows": 7549,
+        "negative_valid_windows": 1058,
+        "eligible_events": 1,
+        "allocation_rank": "0786c850d2531bccbd55a236db43102edc3a0b8d2a84ca78f553f6eb7efd9ee0",
+        "training_cv_fold": 2
+      }
+    ]
+  },
+  "no_performance_read_or_training": true
+}

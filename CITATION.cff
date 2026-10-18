@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite this research software and the accompanying article when its publication details become available."
+type: software
+title: "Physiological Tool Selection: research software for quality-aware tool selection and selective physiological reporting"
+authors:
+  - family-names: Shan
+    given-names: Yuna
+  - family-names: Guo
+    given-names: Jun
+    email: junguo0407@cuit.edu.cn
+  - family-names: Zhao
+    given-names: Hao
+  - family-names: Chen
+    given-names: Yongming
+version: "1.0.0"
+date-released: "2026-10-18"
+abstract: "Participant-separated physiological tool-selection algorithms, statistical analysis and publication-figure code accompanying a multi-cohort research evaluation."
+keywords:
+  - physiological measurement
+  - photoplethysmography
+  - selective prediction
+  - conformal prediction
+  - tool selection

@@ -1,0 +1,901 @@
+{
+  "records": [
+    {
+      "record": "001",
+      "subject": "SHDB_904f23a3a8b5ac9d",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "002",
+      "subject": "SHDB_bcb7783fbcaeba67",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "003",
+      "subject": "SHDB_efe6fb3c6223f2ab",
+      "role": "conformal",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "004",
+      "subject": "SHDB_f7b9b9f10cdb4fe7",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "005",
+      "subject": "SHDB_39e38a375d9c67b8",
+      "role": "excluded_person",
+      "source_record_status": "duplicate_source_conflict_excluded",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "006",
+      "subject": "SHDB_aaf8762040abe020",
+      "role": "conformal",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "007",
+      "subject": "SHDB_00526650917dba89",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "008",
+      "subject": "SHDB_cb4ed7b914d68125",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "009",
+      "subject": "SHDB_5f56633a4d082249",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "010",
+      "subject": "SHDB_935e0a4e83965856",
+      "role": "conformal",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "011",
+      "subject": "SHDB_31085641f96827e6",
+      "role": "policy",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "012",
+      "subject": "SHDB_9e38cd6cf43f1668",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "013",
+      "subject": "SHDB_85c179cdf449d819",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "014",
+      "subject": "SHDB_9293a5851f8b49ca",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "015",
+      "subject": "SHDB_9cbb571f33fcacfa",
+      "role": "train",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "017",
+      "subject": "SHDB_90a9b59d930a50ff",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "018",
+      "subject": "SHDB_6b4e4beefd138e90",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "019",
+      "subject": "SHDB_450c0e3f02e28f33",
+      "role": "train",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "020",
+      "subject": "SHDB_39e38a375d9c67b8",
+      "role": "excluded_person",
+      "source_record_status": "duplicate_source_conflict_excluded",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "021",
+      "subject": "SHDB_18b86c20d03d91c9",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "022",
+      "subject": "SHDB_e65ce6f89817d138",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "023",
+      "subject": "SHDB_94c57baa0c56e3fe",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "024",
+      "subject": "SHDB_f5ac712f855c6135",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "025",
+      "subject": "SHDB_0f7ef67eeef26e03",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "026",
+      "subject": "SHDB_6cc6b9f137af37d8",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "027",
+      "subject": "SHDB_337bab777e925717",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "028",
+      "subject": "SHDB_1ceb50b746738c91",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "029",
+      "subject": "SHDB_afa2e9735daa38df",
+      "role": "conformal",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "031",
+      "subject": "SHDB_43afb3c5fe9e124c",
+      "role": "policy",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "032",
+      "subject": "SHDB_2933a96c7bb21616",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "033",
+      "subject": "SHDB_3d251a433767643e",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "034",
+      "subject": "SHDB_b51bb0fba7d340c6",
+      "role": "train",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "035",
+      "subject": "SHDB_a6d119d0f9a2ed15",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "036",
+      "subject": "SHDB_a6d119d0f9a2ed15",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "037",
+      "subject": "SHDB_807d6854d5d056d4",
+      "role": "policy",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "038",
+      "subject": "SHDB_f4c01cccccc4cd05",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "039",
+      "subject": "SHDB_1ab988d6e8beb2ec",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "040",
+      "subject": "SHDB_0b2ac2e4a02f0e8c",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "041",
+      "subject": "SHDB_21da51a785a37193",
+      "role": "train",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "042",
+      "subject": "SHDB_e98bb3aad1829c84",
+      "role": "conformal",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "043",
+      "subject": "SHDB_551241a6e1e07dc2",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "045",
+      "subject": "SHDB_ebef80ad17a2b4eb",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "046",
+      "subject": "SHDB_baf7a4a57e59d8ef",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "047",
+      "subject": "SHDB_9cbb571f33fcacfa",
+      "role": "train",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "048",
+      "subject": "SHDB_32f4a12cac66c87d",
+      "role": "train",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "049",
+      "subject": "SHDB_9cc08a94a46a55a7",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "050",
+      "subject": "SHDB_c083f6b7f62d6ece",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "051",
+      "subject": "SHDB_6429ba9aae606f19",
+      "role": "train",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "052",
+      "subject": "SHDB_d0fcc2ad61699a8e",
+      "role": "train",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "053",
+      "subject": "SHDB_059b863a66fe2a87",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "054",
+      "subject": "SHDB_6c3bf845e6e06523",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "055",
+      "subject": "SHDB_14b6c16583fdb7d6",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "056",
+      "subject": "SHDB_f38b7cbfcafa83f0",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "057",
+      "subject": "SHDB_49bedef348380bfe",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "058",
+      "subject": "SHDB_2b26b75d569f68f6",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "059",
+      "subject": "SHDB_a2153003d601f3bf",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "060",
+      "subject": "SHDB_9f79448a737e55db",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "061",
+      "subject": "SHDB_0da66cda2b55bf13",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "062",
+      "subject": "SHDB_c7ad2181d8e9e1ea",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "063",
+      "subject": "SHDB_d1b3073a8b2b53e1",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "064",
+      "subject": "SHDB_b9a2be211fa7731d",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "065",
+      "subject": "SHDB_9e497755033ace3d",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "066",
+      "subject": "SHDB_855b8889af641a71",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "067",
+      "subject": "SHDB_a67167ee2aa6a883",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "068",
+      "subject": "SHDB_5a2c25d92d7694a8",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "069",
+      "subject": "SHDB_adcc109cd26ae283",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "070",
+      "subject": "SHDB_afdd15ea6f92197f",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "071",
+      "subject": "SHDB_1fac1a94c21113cc",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "073",
+      "subject": "SHDB_501ce7ea9af61f68",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "077",
+      "subject": "SHDB_01b3f67b8bb6e985",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "079",
+      "subject": "SHDB_52d357b5a8e692bd",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "080",
+      "subject": "SHDB_85b89bc7c3c99439",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "081",
+      "subject": "SHDB_06d5861d15556daa",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "083",
+      "subject": "SHDB_368b5cc166ec0793",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "084",
+      "subject": "SHDB_95780daeebeaee13",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "085",
+      "subject": "SHDB_a1109d74ca38f50b",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "086",
+      "subject": "SHDB_b20e84b4884f78e3",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "087",
+      "subject": "SHDB_7ba96c772ba0d339",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "088",
+      "subject": "SHDB_dec905844d24cc3f",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "090",
+      "subject": "SHDB_8fdb8031fbbeaaac",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "092",
+      "subject": "SHDB_93fda4814898a7a9",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "093",
+      "subject": "SHDB_09fe199e47cb7345",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "094",
+      "subject": "SHDB_1594b02e5155828f",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "095",
+      "subject": "SHDB_50953cc388828aaf",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "096",
+      "subject": "SHDB_5b57a2b6c32d63c5",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "097",
+      "subject": "SHDB_a7924a5e6dd19fb7",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "098",
+      "subject": "SHDB_fc536d782cf510c7",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "099",
+      "subject": "SHDB_a559865575a7f6ff",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "100",
+      "subject": "SHDB_ceb9d985cdf9f361",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "101",
+      "subject": "SHDB_37d8f1c05d260548",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "102",
+      "subject": "SHDB_481a68889856c58c",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "103",
+      "subject": "SHDB_f8bd51aa3d1fd576",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "104",
+      "subject": "SHDB_34b18b537c084198",
+      "role": "excluded_person",
+      "source_record_status": "no_atr",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "105",
+      "subject": "SHDB_ff1765229b3fa1eb",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "106",
+      "subject": "SHDB_5585a90919b3472b",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "107",
+      "subject": "SHDB_f3965308007a2554",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "108",
+      "subject": "SHDB_d68ff8645b398977",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "109",
+      "subject": "SHDB_1cd8df83ad57184c",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "110",
+      "subject": "SHDB_8effe1bd54b5cebe",
+      "role": "conformal",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "111",
+      "subject": "SHDB_0c84460d377bd94b",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "112",
+      "subject": "SHDB_bf26019e9e0970a3",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "113",
+      "subject": "SHDB_56f352c2fb9a0daa",
+      "role": "conformal",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "114",
+      "subject": "SHDB_1cebfc2fbfb55ac2",
+      "role": "train",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "115",
+      "subject": "SHDB_4aa46d90429b56e6",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "116",
+      "subject": "SHDB_3757be85643964f6",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "117",
+      "subject": "SHDB_9cb8da40b5bf2e6e",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "118",
+      "subject": "SHDB_855b8889af641a71",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "122",
+      "subject": "SHDB_d27ae25c7c01f22b",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "124",
+      "subject": "SHDB_26dd5d21cd5a0692",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "125",
+      "subject": "SHDB_09177306c3d175ff",
+      "role": "policy",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "126",
+      "subject": "SHDB_9bbeeefa3efce92e",
+      "role": "conformal",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "127",
+      "subject": "SHDB_db7b9b5030c913d2",
+      "role": "conformal",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "128",
+      "subject": "SHDB_d0fcc2ad61699a8e",
+      "role": "train",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "129",
+      "subject": "SHDB_6eaa1eb62b72978f",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "130",
+      "subject": "SHDB_6610d4c5499ea170",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "131",
+      "subject": "SHDB_2b4138257bf16f8c",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "132",
+      "subject": "SHDB_d484c981aaeef7e2",
+      "role": "train",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "133",
+      "subject": "SHDB_6eaa1eb62b72978f",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "134",
+      "subject": "SHDB_d8aa054ebc148fe7",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "135",
+      "subject": "SHDB_0271ddbc6b37581f",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "136",
+      "subject": "SHDB_021f9b93835a84fe",
+      "role": "train",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "137",
+      "subject": "SHDB_75646ea1ac726b70",
+      "role": "policy",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "138",
+      "subject": "SHDB_90ba1abe35d67b7e",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "139",
+      "subject": "SHDB_8717e98994348f3c",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "140",
+      "subject": "SHDB_28c7dd4d663d501d",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "141",
+      "subject": "SHDB_dded9472a174d996",
+      "role": "excluded_person",
+      "source_record_status": "subject_annotation_minima_not_met",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "142",
+      "subject": "SHDB_a493d4fd72a5b2e0",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    },
+    {
+      "record": "143",
+      "subject": "SHDB_07cef3039b92957b",
+      "role": "evaluation",
+      "source_record_status": "waveform_qualified",
+      "qualification_only_not_role_permission": "Excluded/unannotated records inherit identity role but do not become eligible merely by this mapping"
+    }
+  ],
+  "no_gap_concatenation": true
+}

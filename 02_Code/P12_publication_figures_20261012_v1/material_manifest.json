@@ -1,0 +1,23 @@
+{
+  "schema": "research_material_manifest_v1",
+  "scientific_protocol": "PM_P6_20261010_v1",
+  "scientific_results": "P9_full_20261011_v1",
+  "scientific_statistics": "P10_statistics_20261011_v1",
+  "files": [
+    {
+      "file": "build_publication_figures.py",
+      "bytes": 9290,
+      "sha256": "9a83400c777e0ced7975eb17eb44efb3a98393107ab4fa599ab4a5a1ba4fce62"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1759,
+      "sha256": "1dd399a4642b8d7e1c4224a0069767138dab835ce2e311fc6dab18a2470e90eb"
+    },
+    {
+      "file": "requirements.txt",
+      "bytes": 17,
+      "sha256": "054e7483ed0899a13425d3ff89d0ae162290c88989825c77d22174ceb36f33f1"
+    }
+  ]
+}

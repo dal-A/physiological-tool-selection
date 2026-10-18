@@ -1,0 +1,23 @@
+{
+  "stage": "P7",
+  "real_model_experiments_run": false,
+  "python": "3.12.4",
+  "platform": "Windows-11-10.0.22621-SP0",
+  "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "torch": "2.14.0",
+    "wfdb": "4.3.1",
+    "joblib": "1.6.0",
+    "pytest": "9.1.1"
+  },
+  "torch_build": "2.14.0+cpu",
+  "CUDA_available": false,
+  "experiment_CPU_threads": 4,
+  "actual_interpreter": "D:\\大学学习\\论文\\论文项目\\.venv\\Scripts\\python.exe",
+  "model_training_in_tests": "synthetic only; grouped CV and save/reload"
+}
