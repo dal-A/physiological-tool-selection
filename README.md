@@ -2,7 +2,7 @@
 
 Research software accompanying **Quality-aware tool selection and selective physiological reporting: a subject-disjoint multi-cohort evaluation**.
 
-Authors: Yuna Shan, Jun Guo, Hao Zhao and Yongming Chen. Correspondence: Jun Guo, junguo0407@cuit.edu.cn. Funding: university-level undergraduate innovation and entrepreneurship training project X202610621352, Chengdu University of Information Technology.
+Authors: Yuna Shan, Jun Guo and Hao Zhao. Correspondence: Jun Guo, junguo0407@cuit.edu.cn. Funding: Sichuan Provincial Department of Science and Technology (No. 2026NSFSC0138), the Aba Prefecture Science and Technology Achievement Transformation Project (No. R25CGZH0005), and the Sichuan National Applied Mathematics Center (No. 2026ZX002).
 
 The implementation combines physiological signal processing, quality proxies, logistic regression and lightweight convolutional models, conditional secondary-tool use, split conformal prediction and causal change-point monitoring. Statistical analysis uses participant-level aggregation and paired cluster bootstrap intervals. The scientific protocol is `PM_P6_20261010_v1`; the corresponding full experiments and statistics are `P9_full_20261011_v1` and `P10_statistics_20261011_v1`.
 
